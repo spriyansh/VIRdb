@@ -5,12 +5,13 @@
 
 
 <b>Salient Features</b>
-
--> Home to differentially expressed genes across Lesional Vitiligo, Peri-Lesional Vitiligo, Non-Lesional Vitiligo.
--> Holds manually curated protein targets from the literature that are involved in the vitiligo.
--> Offers a complete profile for these target protein having links to all major databases making it across-functional database.
--> Offers power D3-Force for network visualisations.
-
+<ul>
+<li>-> Home to differentially expressed genes across Lesional Vitiligo, Peri-Lesional Vitiligo, Non-Lesional Vitiligo.</li>
+<li>-> Holds manually curated protein targets from the literature that are involved in the vitiligo.</li>
+<li>-> Offers a complete profile for these target protein having links to all major databases making it across-functional database.</li>
+<li>-> Offers power D3-Force for network visualisations.</li>
+</ul>
 <b>Currents Developments</b>
-
--> Deciphering relations and cross-talks with other diseases (Psoriasis, Multiple Sclerosis and Rheumatoid Arthritis), through computational genomics.
+<ul>
+<li>-> Deciphering relations and cross-talks with other diseases (Psoriasis, Multiple Sclerosis and Rheumatoid Arthritis), through computational genomics.</li>
+</ul>
