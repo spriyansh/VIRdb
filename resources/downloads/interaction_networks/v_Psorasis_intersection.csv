@@ -1,0 +1,96 @@
+Gene 1,Gene 2,Weight,Network group,Network
+DNAJB6,DDX3X,0.027902246,Co-expression,Noble-Diehl-2008
+ATP6AP2,PPA2,0.007859641,Co-expression,Noble-Diehl-2008
+ATP6AP2,SPTLC1,0.0080872,Co-expression,Noble-Diehl-2008
+NAA50,DDX3X,0.008739706,Co-expression,Noble-Diehl-2008
+NAA50,DNAJB6,0.009073685,Co-expression,Noble-Diehl-2008
+CSNK1A1,NAA50,0.010144582,Co-expression,Noble-Diehl-2008
+LAPTM4A,ATP6AP2,0.0037607166,Co-expression,Noble-Diehl-2008
+LAPTM4A,PPA1,0.006756483,Co-expression,Noble-Diehl-2008
+MYCBP2,BBX,0.01750865,Co-expression,Noble-Diehl-2008
+MYCBP2,PPP2R5C,0.015703212,Co-expression,Noble-Diehl-2008
+ABHD13,ATP6AP2,0.007518725,Co-expression,Noble-Diehl-2008
+ARPC4,APH1A,0.011735293,Co-expression,Chen-Brown-2002
+BBX,NUF2,0.011392146,Co-expression,Chen-Brown-2002
+CNIH4,LAPTM4B,0.00561125,Co-expression,Chen-Brown-2002
+CSNK1A1,DNAJB6,0.010548985,Co-expression,Chen-Brown-2002
+CSNK1A1,NAA50,0.0056604533,Co-expression,Chen-Brown-2002
+PGK1,NAA50,0.010660518,Co-expression,Chen-Brown-2002
+PPA1,CSNK1A1,0.007088502,Co-expression,Chen-Brown-2002
+MYCBP2,PAFAH1B1,0.024930255,Co-expression,Chen-Brown-2002
+CNIH1,LAPTM4A,0.011352151,Co-expression,Chen-Brown-2002
+DNAJB6,LAPTM4B,0.021401145,Co-expression,Bild-Nevins-2006 B
+SPTLC1,DNAJB6,0.010348653,Co-expression,Bild-Nevins-2006 B
+PGK1,LAPTM4B,0.01722783,Co-expression,Bild-Nevins-2006 B
+LAPTM4A,SPTLC1,0.008190963,Co-expression,Bild-Nevins-2006 B
+CNIH1,PGK1,0.010999784,Co-expression,Bild-Nevins-2006 B
+CNIH1,LAPTM4A,0.008439614,Co-expression,Bild-Nevins-2006 B
+PPP2R5E,DDX3X,0.010890956,Co-expression,Bild-Nevins-2006 B
+PSAT1,API5,0.01170864,Co-expression,Wang-Cheung-2015
+CNIH4,DNAJB6,0.008875862,Co-expression,Wang-Cheung-2015
+NAA50,DDX3X,0.0081386585,Co-expression,Wang-Cheung-2015
+NAA50,API5,0.008058985,Co-expression,Wang-Cheung-2015
+PAFAH1B1,EZR,0.0120186675,Co-expression,Wang-Cheung-2015
+PPA1,NAA50,0.0043470995,Co-expression,Wang-Cheung-2015
+MYCBP2,BBX,0.006157503,Co-expression,Wang-Cheung-2015
+CNIH1,MED6,0.0063463286,Co-expression,Wang-Cheung-2015
+CNIH1,DDX3X,0.008107753,Co-expression,Wang-Cheung-2015
+CNIH1,SPTLC1,0.008650174,Co-expression,Wang-Cheung-2015
+PPP4R3A,BBX,0.0058026835,Co-expression,Wang-Cheung-2015
+PPP2R5E,BBX,0.0041936366,Co-expression,Wang-Cheung-2015
+PPP2R5E,PPP4R3A,0.010996058,Co-expression,Wang-Cheung-2015
+BBX,INTS6,0.010299197,Co-expression,Bahr-Bowler-2013
+ATP6AP2,DDX3X,0.018986342,Co-expression,Bahr-Bowler-2013
+EZR,ZNF395,0.017856015,Co-expression,Bahr-Bowler-2013
+MYCBP2,SETD5,0.011873208,Co-expression,Bahr-Bowler-2013
+MYCBP2,BBX,0.011966986,Co-expression,Bahr-Bowler-2013
+CNIH1,SPTLC1,0.006446064,Co-expression,Bahr-Bowler-2013
+PPP2R5E,BBX,0.012253966,Co-expression,Bahr-Bowler-2013
+COQ2,PGK1,0.008493489,Co-expression,Bahr-Bowler-2013
+COQ2,LAPTM4A,0.0035910744,Co-expression,Bahr-Bowler-2013
+CNIH4,LAPTM4B,0.015707199,Co-expression,Perou-Botstein-2000
+CSNK1A1,PPA2,0.017207548,Co-expression,Perou-Botstein-2000
+LAPTM4A,APH1B,0.015214388,Co-expression,Perou-Botstein-2000
+DNAJB6,LAPTM4B,0.010774538,Co-expression,Wu-Garvey-2007
+PSMD11,DNAJB6,0.011250375,Co-expression,Wu-Garvey-2007
+LAPTM4A,ANAPC5,0.0077669574,Co-expression,Wu-Garvey-2007
+LAPTM4A,PGK1,0.010249889,Co-expression,Wu-Garvey-2007
+MYCBP2,BBX,0.018275259,Co-expression,Wu-Garvey-2007
+CNIH1,LAPTM4B,0.008925707,Co-expression,Wu-Garvey-2007
+CNIH1,LAPTM4A,0.0043922,Co-expression,Wu-Garvey-2007
+CPSF4,ARPC4,0.011004207,Co-expression,Wu-Garvey-2007
+PPP2R5E,MED6,0.016426155,Co-expression,Wu-Garvey-2007
+PPP2R5E,PPP2R5C,0.01583985,Co-expression,Wu-Garvey-2007
+EZR,PSAT1,0.009593683,Co-expression,Smirnov-Cheung-2009
+NAA50,DDX3X,0.01581141,Co-expression,Smirnov-Cheung-2009
+PPA1,PGK1,0.011437051,Co-expression,Smirnov-Cheung-2009
+MYCBP2,SETD5,0.002742048,Co-expression,Smirnov-Cheung-2009
+CNIH1,PPA2,0.0064116674,Co-expression,Smirnov-Cheung-2009
+CNIH1,CSNK1A1,0.008723819,Co-expression,Smirnov-Cheung-2009
+MOGS,SETD5,0.0037654093,Co-expression,Smirnov-Cheung-2009
+PPP2R5E,CNIH1,0.0039900406,Co-expression,Smirnov-Cheung-2009
+ABHD17B,PSAT1,0.003436354,Co-expression,Smirnov-Cheung-2009
+SPTLC1,PPA2,0.015038516,Co-expression,Ramaswamy-Golub-2001
+LAPTM5,PGK2,0.007932459,Co-expression,Ramaswamy-Golub-2001
+CNIH1,API5,0.0049690814,Co-expression,Ramaswamy-Golub-2001
+CNIH1,CNIH4,0.008606349,Co-expression,Ramaswamy-Golub-2001
+COQ2,CNIH1,0.0064932676,Co-expression,Ramaswamy-Golub-2001
+DNAJB6,LAPTM4B,0.0070541445,Co-expression,Roth-Zlotnik-2006
+NAA50,DNAJB6,0.008571468,Co-expression,Roth-Zlotnik-2006
+LAPTM4A,PPA2,0.0060575157,Co-expression,Roth-Zlotnik-2006
+CNIH2,CNIH3,0.0093789585,Co-expression,Roth-Zlotnik-2006
+MOGS,EIF3C,0.007263594,Co-expression,Roth-Zlotnik-2006
+PPP2R5E,MYCBP2,0.017863939,Co-expression,Roth-Zlotnik-2006
+CSNK1A1,DDX3X,0.015382653,Co-localization,Schadt-Shoemaker-2004
+PGK1,DDX3X,0.011220873,Co-localization,Schadt-Shoemaker-2004
+PGK1,CSNK1A1,0.011969638,Co-localization,Schadt-Shoemaker-2004
+CSNK1A1,PPP2R5C,0.014505031,Pathway,Wu-Stein-2010
+PSMD11,ANAPC5,0.01201343, ,Wu-Stein-2010
+PSMD11,CSNK1A1,0.007870808,Pathway,Wu-Stein-2010
+PAFAH1B1,NUF2,0.0077077844,Pathway,Wu-Stein-2010
+APH1B,APH1A,0.023950927,Pathway,Wu-Stein-2010
+PPP2R5E,CSNK1A1,0.014505031,Pathway,Wu-Stein-2010
+EZR,PPA2,0.027733244,Physical Interactions,Wan-Emili-2015
+PPP2R5C,API5,0.07071736,Physical Interactions,Wan-Emili-2015
+PPP2R5E,API5,0.093767814,Physical Interactions,Wan-Emili-2015
+PPP2R5E,PPP2R5C,0.12208357,Physical Interactions,Wan-Emili-2015

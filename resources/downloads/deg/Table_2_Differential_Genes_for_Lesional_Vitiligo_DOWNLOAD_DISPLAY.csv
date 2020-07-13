@@ -1,0 +1,124 @@
+VIRID,HGNC Symbol,Status,Chromosome,Map Location,Description,Type,Fold Change,P-Value,False Discovery Rate,Probe ID
+VIRLG1,ACYP1,Upregulated,14,14q24.3,acylphosphatase 1,protein-coding,0.99,1.22E-09,2.57E-06,205260_s_at
+VIRLG2,ADGRF4,Upregulated,6,6p12.3,adhesion G protein-coupled receptor F4,protein-coding,1.038,8.015E-06,0.00281,1553031_at | 237690_at
+VIRLG3,APLP2,Upregulated,11,11q24.3,amyloid beta precursor like protein 2,protein-coding,0.935,5.83E-06,0.0024,208701_at
+VIRLG4,ARNTL,Upregulated,11,11p15.3,aryl hydrocarbon receptor nuclear translocator like,protein-coding,1.36,9.16E-07,0.000613,209824_s_at
+VIRLG5,ATG2B,Upregulated,14,14q32.2,autophagy related 2B,protein-coding,0.72,1.39E-05,0.00455,219164_s_at
+VIRLG6,CEBPG,Upregulated,19,19q13.11,CCAAT enhancer binding protein gamma,protein-coding,0.925,2E-07,0.000185,225527_at
+VIRLG7,CLOCK,Upregulated,4,4q12,clock circadian regulator,protein-coding,0.73,1.26E-06,0.000776,225856_at
+VIRLG8,CPEB2,Upregulated,4,4p15.32,cytoplasmic polyadenylation element binding protein 2,protein-coding,1.06,5.58E-08,6.47E-05,235479_at
+VIRLG9,CREBZF,Upregulated,11,11q14.1,CREB/ATF bZIP transcription factor,protein-coding,0.625,5.28E-07,0.000385,225594_at
+VIRLG10,CTDSP2,Upregulated,12,12q14.1,CTD small phosphatase 2,protein-coding,0.618,4.47E-06,0.00196,208735_s_at
+VIRLG11,DCPS,Upregulated,11,11q24.2,"decapping enzyme, scavenger",protein-coding,0.572,2.22E-06,0.00119,218774_at
+VIRLG12,DIP2A,Upregulated,21,21q22.3,disco interacting protein 2 homolog A,protein-coding,0.678,1.44E-07,0.000143,227199_at
+VIRLG13,DPP9,Upregulated,19,19p13.3,dipeptidyl peptidase 9,protein-coding,0.637,1.35E-05,0.00452,226916_x_at
+VIRLG14,FAM131A,Upregulated,3,3q27.1,family with sequence similarity 131 member A,protein-coding,0.599,8.22E-07,0.000576,221904_at
+VIRLG15,FKBP4,Upregulated,12,12p13.33,FKBP prolyl isomerase 4,protein-coding,0.504,6.44E-06,0.00261,200894_s_at
+VIRLG16,GATC,Upregulated,12,12q24.31,glutamyl-tRNA amidotransferase subunit C,protein-coding,0.52,5.68E-08,6.47E-05,201698_s_at
+VIRLG17,GRWD1,Upregulated,19,19q13.33,glutamate rich WD repeat containing 1,protein-coding,0.542,9.22E-06,0.00336,221549_at
+VIRLG18,HNRNPA3,Upregulated,2,2q31.2,heterogeneous nuclear ribonucleoprotein A3,protein-coding,0.617,1.35E-07,0.000142,211931_s_at
+VIRLG19,HNRNPA3P1,Upregulated,10,10q11.21,heterogeneous nuclear ribonucleoprotein A3 pseudogene 1,pseudo,0.617,1.35E-07,0.000142,211931_s_at
+VIRLG20,HTATSF1,Upregulated,X,Xq26.3,HIV-1 Tat specific factor 1,protein-coding,0.843,3.19E-11,2.44E-07,202602_s_at
+VIRLG21,IKZF2,Upregulated,2,2q34,IKAROS family zinc finger 2,protein-coding,1.1,8.42E-06,0.00313,220567_at
+VIRLG22,JKAMP,Upregulated,14,14q23.1,JNK1/MAPK8 associated membrane protein,protein-coding,0.572,5.26E-07,0.000385,223215_s_at
+VIRLG23,KCNJ12,Upregulated,17,17p11.2,potassium inwardly rectifying channel subfamily J member 12,protein-coding,1.17,4.33E-06,0.00194,232289_at
+VIRLG24,KCNJ18,Upregulated,17,17p11.2,potassium inwardly rectifying channel subfamily J member 18,protein-coding,1.17,4.33E-06,0.00194,232289_at
+VIRLG25,KLHL42,Upregulated,12,12p11.22,kelch like family member 42,protein-coding,0.659,1.13E-05,0.00395,225961_at
+VIRLG26,LOC100506639,Upregulated,5,5p12,uncharacterized LOC100506639,ncRNA,0.628,1.36E-05,0.00452,214741_at
+VIRLG27,MAFG,Upregulated,17,17q25.3,MAF bZIP transcription factor G,protein-coding,0.766,2.21E-08,3.1E-05,204970_s_at
+VIRLG28,MAGEF1,Upregulated,3,3q27.1,MAGE family member F1,protein-coding,0.534,1.74E-06,0.00101,218176_at
+VIRLG29,MED14,Upregulated,X,Xp11.4,mediator complex subunit 14,protein-coding,0.683,3.45E-06,0.00168,202611_s_at
+VIRLG30,MFN2,Upregulated,1,1p36.22,mitofusin 2,protein-coding,0.568,1.22E-06,0.000758,201155_s_at
+VIRLG31,MIR3658,Upregulated,1,1q24.1,microRNA 3658,ncRNA,0.78,8.15E-07,0.000576,209825_s_at
+VIRLG32,MRPS23,Upregulated,17,17q22,mitochondrial ribosomal protein S23,protein-coding,0.881,1.09E-06,0.000696,223156_at
+VIRLG33,NFIX,Upregulated,19,19p13.13,nuclear factor I X,protein-coding,0.638,1.02E-05,0.00361,228278_at
+VIRLG34,NPAS2,Upregulated,2,2q11.2,neuronal PAS domain protein 2,protein-coding,0.99,1.58E-05,0.00494,39548_at
+VIRLG35,ORC2,Upregulated,2,2q33.1,origin recognition complex subunit 2,protein-coding,0.88,1.47E-08,2.23E-05,204853_at
+VIRLG36,PAGR1,Upregulated,16,16p11.2,PAXIP1 associated glutamate rich protein 1,protein-coding,1.03,3.43E-08,4.37E-05,218300_at
+VIRLG37,PDPK1,Upregulated,16,16p13.3,3-phosphoinositide dependent protein kinase 1,protein-coding,0.846,4.33E-07,0.000338,221244_s_at
+VIRLG38,PEX5,Upregulated,12,12p13.31,peroxisomal biogenesis factor 5,protein-coding,0.816,3.31E-07,0.000274,203244_at
+VIRLG39,PRKX,Upregulated,X,Xp22.33,protein kinase X-linked,protein-coding,0.9815,7E-08,7.9E-05,204061_at | 204060_s_at
+VIRLG40,PRKY,Upregulated,Y,Yp11.2,protein kinase Y-linked (pseudogene),pseudo,0.987,2.7E-08,3.6E-05,204060_s_at
+VIRLG41,RAB18,Upregulated,10,10p12.1,"RAB18, member RAS oncogene family",protein-coding,0.54,5.35E-06,0.00227,224787_s_at
+VIRLG42,RBM17,Upregulated,10,10p15.1,RNA binding motif protein 17,protein-coding,0.549,1.68E-08,2.42E-05,224781_s_at
+VIRLG43,RIPK4,Upregulated,21,21q22.3,receptor interacting serine/threonine kinase 4,protein-coding,0.642,1.47E-05,0.00461,221215_s_at
+VIRLG44,SEMA4C,Upregulated,2,2q11.2,semaphorin 4C,protein-coding,0.63,1.38E-05,0.00453,219039_at
+VIRLG45,SNORD50A,Upregulated,6,6q14.3,"small nucleolar RNA, C/D box 50A",snoRNA,0.615,2.15E-06,0.00119,244669_at
+VIRLG46,SNORD50B,Upregulated,6,6q14.3,"small nucleolar RNA, C/D box 50B",snoRNA,0.615,2.15E-06,0.00119,244669_at
+VIRLG47,SRSF1,Upregulated,17,17q22,serine and arginine rich splicing factor 1,protein-coding,0.825,1.45E-05,0.00458,201741_x_at
+VIRLG48,SRSF9,Upregulated,12,12q24.31,serine and arginine rich splicing factor 9,protein-coding,0.52,5.68E-08,6.47E-05,201698_s_at
+VIRLG49,TLE4,Upregulated,9,9q21.31,"TLE family member 4, transcriptional corepressor",protein-coding,0.864,1.68E-06,0.00099,235765_at
+VIRLG50,TMEM70,Upregulated,8,8q21.11,transmembrane protein 70,protein-coding,0.801,1.9573E-07,0.0001607,219449_s_at | 226083_at
+VIRLG51,TP53,Upregulated,17,17p13.1,tumor protein p53,protein-coding,0.94,1.08E-06,0.000696,211300_s_at
+VIRLG52,TRNAU1AP,Upregulated,1,1p35.3,tRNA selenocysteine 1 associated protein 1,protein-coding,0.562,9.19E-07,0.000613,218977_s_at
+VIRLG53,UBALD2,Upregulated,17,17q25.1,UBA like domain containing 2,protein-coding,0.759,2.73E-06,0.0014,224783_at
+VIRLG54,UCK2,Upregulated,1,1q24.1,uridine-cytidine kinase 2,protein-coding,0.78,8.15E-07,0.000576,209825_s_at
+VIRLG55,UPRT,Upregulated,X,Xq13.3,uracil phosphoribosyltransferase homolog,protein-coding,0.615,3.42E-06,0.00168,226199_at
+VIRLG56,USP47,Upregulated,11,11p15.3,ubiquitin specific peptidase 47,protein-coding,0.556,1.38E-06,0.000832,221518_s_at
+VIRLG57,ZNF131,Upregulated,5,5p12,zinc finger protein 131,protein-coding,0.628,1.36E-05,0.00452,214741_at
+VIRLG58,ZNF330,Upregulated,4,4q31.21,zinc finger protein 330,protein-coding,0.537,7.39E-06,0.00289,209814_at
+VIRLG59,ZNF436,Upregulated,1,1p36.12,zinc finger protein 436,protein-coding,0.692,1.87E-06,0.00106,226114_at
+VIRLG60,ZNF569,Upregulated,19,19q13.12,zinc finger protein 569,protein-coding,0.697,1.33E-05,0.00452,1553696_s_at
+VIRLG61,ZRANB1,Upregulated,10,10q26.13,zinc finger RANBP2-type containing 1,protein-coding,0.503,4.8E-06,0.00207,225130_at
+VIRLG62,ALX1,Downregulated,12,12q21.31,ALX homeobox 1,protein-coding,-1.73,2.55E-08,3.48E-05,206837_at
+VIRLG63,AP2B1,Upregulated,17,17q12,adaptor related protein complex 2 subunit beta 1,protein-coding,-0.553,8.07E-06,0.00306,200615_s_at
+VIRLG64,APBA2,Downregulated,15,15q13.1,amyloid beta precursor protein binding family A member 2,protein-coding,-1.26,1.535E-07,0.000152,209871_s_at | 209870_s_at
+VIRLG65,BCAN,Downregulated,1,1q23.1,brevican,protein-coding,-1.475,3.7203295E-06,0.00144586,221623_at | 219107_at
+VIRLG66,BHLHE41,Downregulated,12,12p12.1,basic helix-loop-helix family member e41,protein-coding,-1.12,9.86E-07,0.000649,221530_s_at
+VIRLG67,CA14,Downregulated,1,1q21.2,carbonic anhydrase 14,protein-coding,-2.03,3.57E-11,2.44E-07,219464_at
+VIRLG68,CAPN3,Downregulated,15,15q15.1,calpain 3,protein-coding,-1.54333333333333,1.2830315E-06,0.000658476666667,211890_x_at | 210944_s_at | 214475_x_at
+VIRLG69,CDC42EP3,Upregulated,2,2p22.2,CDC42 effector protein 3,protein-coding,-0.861,4.23E-06,0.00191,225685_at
+VIRLG70,CDH3,Downregulated,16,16q22.1,cadherin 3,protein-coding,-1.2,4.1E-06,0.0019,203256_at
+VIRLG71,CLEC12B,Downregulated,12,12p13.2,C-type lectin domain family 12 member B,protein-coding,-3.1,4.66E-10,1.323E-06,231600_at | 231357_at
+VIRLG72,CRABP1,Downregulated,15,15q25.1,cellular retinoic acid binding protein 1,protein-coding,-2.15,4.43E-07,0.000341,205350_at
+VIRLG73,DCT,Downregulated,13,13q32.1,dopachrome tautomerase,protein-coding,-4.2725,4.921435E-10,1.089045E-06,205338_s_at | 216513_at | 216512_s_at | 205337_at
+VIRLG74,DPP6,Downregulated,7,7q36.2,dipeptidyl peptidase like 6,protein-coding,-2.03,2.09E-06,0.00117,228546_at
+VIRLG75,EDNRB,Downregulated,13,13q22.3,endothelin receptor type B,protein-coding,-1.2405,6.9385E-06,0.0023825,204273_at | 204271_s_at
+VIRLG76,GAPDHS,Downregulated,19,19q13.12,"glyceraldehyde-3-phosphate dehydrogenase, spermatogenic",protein-coding,-0.8,1.36E-05,0.00452,229645_at
+VIRLG77,GPM6B,Downregulated,X,Xp22.2,glycoprotein M6B,protein-coding,-1.06,1.21E-08,1.96E-05,207116_s_at
+VIRLG78,GPR143,Downregulated,X,Xp22.2,G protein-coupled receptor 143,protein-coding,-1.675,5.687125E-07,0.00039535,209168_at | 209170_s_at | 209167_at | 209169_at
+VIRLG79,GPR155,Upregulated,2,2q31.1,G protein-coupled receptor 155,protein-coding,-2.65,3.38E-13,6.16E-09,206696_at
+VIRLG80,IRF4,Downregulated,6,6p25.3,interferon regulatory factor 4,protein-coding,-0.764,4.12E-06,0.0019,239533_at
+VIRLG81,IRS4,Downregulated,X,Xq22.3,insulin receptor substrate 4,protein-coding,-1.48,4.64E-07,0.000349,204562_at
+VIRLG82,KCNAB2,Upregulated,1,1p36.31,potassium voltage-gated channel subfamily A regulatory beta subunit 2,protein-coding,-2.1,2.52E-10,8.35E-07,1560652_at
+VIRLG83,KCNN2,Downregulated,5,5q22.3,potassium calcium-activated channel subfamily N member 2,protein-coding,-0.825,4.24E-06,0.00191,203402_at
+VIRLG84,KIAA1549L,Downregulated,11,11p13,KIAA1549 like,protein-coding,-1.44,1.96E-06,0.0011,235486_at
+VIRLG85,KIF1A,Upregulated,2,2q37.3,kinesin family member 1A,protein-coding,-0.906,2.18E-06,0.00119,203849_s_at
+VIRLG86,L1CAM,Downregulated,X,Xq28,L1 cell adhesion molecule,protein-coding,-1.39,5.62E-06,0.00235,204584_at
+VIRLG87,LGI3,Downregulated,8,8p21.3,leucine rich repeat LGI family member 3,protein-coding,-1.42,4.65E-07,0.000349,238061_at
+VIRLG88,LHFPL3-AS1,Downregulated,7,7q22.2,LHFPL3 antisense RNA 1,ncRNA,-3.6,9.17E-11,4.3E-07,240366_at
+VIRLG89,LINC00518,Downregulated,6,6p24.3,long intergenic non-protein coding RNA 518,ncRNA,-2.86,8.81E-08,9.83E-05,244829_at
+VIRLG90,LOC100128079,Downregulated,16,16p11.2,uncharacterized LOC100128079,ncRNA,-1.26,5.61E-09,1.02E-05,1569620_s_at
+VIRLG91,LOC100505498,Downregulated,2,2q22.3,uncharacterized LOC100505498,ncRNA,-1.57,2.82E-08,3.67E-05,231337_at
+VIRLG92,LOC728715,Downregulated,12,12p13.31,ovostatin homolog 2,ncRNA,-1.25,8.39E-06,0.00313,228245_s_at
+VIRLG93,LSAMP,Downregulated,3,3q13.31,limbic system associated membrane protein,protein-coding,-1.006,3.9515E-06,0.001605,228218_at | 214460_at
+VIRLG94,LZTS1,Downregulated,8,8p21.3,leucine zipper tumor suppressor 1,protein-coding,-1.435,4.704E-07,0.00033535,47550_at | 219042_at
+VIRLG95,MAP9,Downregulated,4,4q32.1,microtubule associated protein 9,protein-coding,-1.01,7.63E-06,0.00292,239415_at
+VIRLG96,MFSD12,Downregulated,19,19p13.3,major facilitator superfamily domain containing 12,protein-coding,-1.5,5.2E-06,0.00222,220178_at
+VIRLG97,MIR6883,Downregulated,17,17p13.1,microRNA 6883,ncRNA,-1.17,1.15E-05,0.00399,36829_at
+VIRLG98,MLANA,Downregulated,9,9p24.1,melan-A,protein-coding,-4.795,1.285E-10,5.19E-07,206427_s_at | 206426_at
+VIRLG99,MYEF2,Downregulated,15,15q21.1,myelin expression factor 2,protein-coding,-2.91,7.1786E-08,7.2325E-05,222771_s_at | 222153_at
+VIRLG100,OCA2,Downregulated,15,15q12-q13.1,OCA2 melanosomal transmembrane protein,protein-coding,-1.97,2.46E-10,8.35E-07,206498_at
+VIRLG101,OVOS,Downregulated,12,12p13.31,alpha-2-macroglobulin like 1 pseudogene,pseudo,-1.25,8.39E-06,0.00313,228245_s_at
+VIRLG102,OVOS2,Downregulated,12,12p11.21,alpha-2-macroglobulin like 1 pseudogene,pseudo,-1.25,8.39E-06,0.00313,228245_s_at
+VIRLG103,PCSK2,Downregulated,20,20p12.1,proprotein convertase subtilisin/kexin type 2,protein-coding,-2.45,2.730595E-11,1.663255E-07,204869_at | 204870_s_at
+VIRLG104,PER1,Downregulated,17,17p13.1,period circadian regulator 1,protein-coding,-1.17,1.15E-05,0.00399,36829_at
+VIRLG105,PLP1,Downregulated,X,Xq22.2,proteolipid protein 1,protein-coding,-1.62,1.79E-07,0.000169,210198_s_at
+VIRLG106,PLPPR4,Downregulated,1,1p21.3-p21.2,phospholipid phosphatase related 4,protein-coding,-1.78,1.14E-07,0.000122,213496_at
+VIRLG107,PLXNC1,Downregulated,12,12q22,plexin C1,protein-coding,-1.55,3.22E-07,0.000274,213241_at
+VIRLG108,PMEL,Downregulated,12,12q13.2,premelanosome protein,protein-coding,-2.64,9.26E-10,2.11E-06,209848_s_at
+VIRLG109,SEMA6D,Upregulated,15,15q21.1,semaphorin 6D,protein-coding,-0.954,3.74E-06,0.00179,226492_at
+VIRLG110,SFTPC,Upregulated,8,8p21.3,surfactant protein C,protein-coding,-0.728666666666667,4.62513333333333E-07,0.000286333333333,211735_x_at | 205982_x_at | 214387_x_at
+VIRLG111,SLC1A4,Upregulated,2,2p14,solute carrier family 1 member 4,protein-coding,-0.865666666666667,5.65666666666667E-06,0.002323333333333,212811_x_at | 209610_s_at | 212810_s_at
+VIRLG112,SLC45A2,Downregulated,5,5p13.2,solute carrier family 45 member 2,protein-coding,-1.155,2.9224E-06,0.00123235,220245_at | 221644_s_at
+VIRLG113,SLC6A17,Downregulated,1,1p13.3,solute carrier family 6 member 17,protein-coding,-1.43,7.79E-10,1.93E-06,229925_at
+VIRLG114,SLCO4A1-AS1,Downregulated,20,20q13.33,SLCO4A1 antisense RNA 1,ncRNA,-1.35,1.02E-05,0.00361,1554332_a_at
+VIRLG115,STXBP6,Upregulated,14,14q12,syntaxin binding protein 6,protein-coding,-0.945,5.44E-06,0.00229,230560_at
+VIRLG116,TEX41,Downregulated,2,2q22.3,testis expressed 41,ncRNA,-1.57,2.82E-08,3.67E-05,231337_at
+VIRLG117,TRPM1,Downregulated,15,15q13.3,transient receptor potential cation channel subfamily M member 1,protein-coding,-2.5925,5.515708125E-07,0.00030054154,214410_at | 206479_at | 237069_s_at | 237070_at
+VIRLG118,TTYH2,Upregulated,17,17q25.1,tweety family member 2,protein-coding,-0.646,9.86E-06,0.00357,223741_s_at
+VIRLG119,TYR,Downregulated,11,11q14.3,tyrosinase,protein-coding,-3.94,4.2625E-11,2.4155E-07,1555505_a_at | 206630_at
+VIRLG120,TYRP1,Downregulated,9,9p23,tyrosinase related protein 1,protein-coding,-4.65,3.29E-07,0.000274,205694_at
+VIRLG121,VEPH1,Downregulated,3,3q25.31-q25.32,ventricular zone expressed PH domain containing 1,protein-coding,-2.74,1.22E-08,1.96E-05,232122_s_at
+VIRLG122,WDR63,Downregulated,1,1p22.3,WD repeat domain 63,protein-coding,-2.55,5.59E-08,6.47E-05,243087_at
+VIRLG123,ZNF280B,Downregulated,22,22q11.22,zinc finger protein 280B,protein-coding,-1.09,1.45E-05,0.00458,230789_at

@@ -1,0 +1,471 @@
+Gene 1,Gene 2,Weight,Network group,Network
+RPS6KB1,MED14,0.019347744,Co-expression,Bahr-Bowler-2013
+RBM25,STK4,0.023340788,Co-expression,Bahr-Bowler-2013
+PTBP2,NUP58,0.026758846,Co-expression,Bahr-Bowler-2013
+RBM39,C5orf24,0.0136218285,Co-expression,Bahr-Bowler-2013
+RBM39,NUP58,0.019721866,Co-expression,Bahr-Bowler-2013
+RBM39,PTBP2,0.024257796,Co-expression,Bahr-Bowler-2013
+RBM26,C5orf24,0.012738799,Co-expression,Bahr-Bowler-2013
+RBM26,NUP58,0.015870593,Co-expression,Bahr-Bowler-2013
+RBM26,PTBP2,0.019373514,Co-expression,Bahr-Bowler-2013
+RBM26,RBM39,0.017867886,Co-expression,Bahr-Bowler-2013
+PNISR,C5orf24,0.012580077,Co-expression,Bahr-Bowler-2013
+PNISR,RBM25,0.020544361,Co-expression,Bahr-Bowler-2013
+PNISR,HNRNPA1,0.01688126,Co-expression,Bahr-Bowler-2013
+RSRC2,NUP58,0.01905557,Co-expression,Bahr-Bowler-2013
+RSRC2,RBM39,0.026948633,Co-expression,Bahr-Bowler-2013
+RSRC2,SRSF10,0.023796318,Co-expression,Bahr-Bowler-2013
+TCERG1,C5orf24,0.006252873,Co-expression,Bahr-Bowler-2013
+TCERG1,NUP58,0.008118553,Co-expression,Bahr-Bowler-2013
+TCERG1,PTBP2,0.009874053,Co-expression,Bahr-Bowler-2013
+TCERG1,RBM39,0.008375039,Co-expression,Bahr-Bowler-2013
+TCERG1,SRSF10,0.009230427,Co-expression,Bahr-Bowler-2013
+TCERG1,RBM26,0.008995003,Co-expression,Bahr-Bowler-2013
+TCERG1,PNISR,0.007932024,Co-expression,Bahr-Bowler-2013
+PNN,HNRNPA1,0.016947826,Co-expression,Bahr-Bowler-2013
+PNN,RBM26,0.016799629,Co-expression,Bahr-Bowler-2013
+PNN,PNISR,0.022385562,Co-expression,Bahr-Bowler-2013
+PNN,TCERG1,0.007736336,Co-expression,Bahr-Bowler-2013
+ZMYM2,C5orf24,0.011022583,Co-expression,Bahr-Bowler-2013
+ZMYM2,NUP58,0.013807934,Co-expression,Bahr-Bowler-2013
+ZMYM2,PTBP2,0.016463004,Co-expression,Bahr-Bowler-2013
+ZMYM2,RBM39,0.012840388,Co-expression,Bahr-Bowler-2013
+ZMYM2,RBM26,0.012749293,Co-expression,Bahr-Bowler-2013
+ZMYM2,TCERG1,0.0064590136,Co-expression,Bahr-Bowler-2013
+OTUD4,C5orf24,0.011729576,Co-expression,Bahr-Bowler-2013
+OTUD4,RPS6KB1,0.018701693,Co-expression,Bahr-Bowler-2013
+OTUD4,NUP58,0.01458158,Co-expression,Bahr-Bowler-2013
+OTUD4,PTBP2,0.016934063,Co-expression,Bahr-Bowler-2013
+OTUD4,TCERG1,0.007484394,Co-expression,Bahr-Bowler-2013
+ESF1,STK4,0.010670243,Co-expression,Bahr-Bowler-2013
+ESF1,RBM25,0.012695501,Co-expression,Bahr-Bowler-2013
+ESF1,NAA15,0.011221487,Co-expression,Bahr-Bowler-2013
+ESF1,BBX,0.01075168,Co-expression,Bahr-Bowler-2013
+ESF1,RSRC2,0.010569666,Co-expression,Bahr-Bowler-2013
+LUC7L3,RBM25,0.019135505,Co-expression,Bahr-Bowler-2013
+LUC7L3,PNISR,0.02111812,Co-expression,Bahr-Bowler-2013
+LUC7L3,PNN,0.018073408,Co-expression,Bahr-Bowler-2013
+NAA15,RBM25,0.0127523085,Co-expression,Smirnov-Cheung-2009
+NAA15,SRSF1,0.015408126,Co-expression,Smirnov-Cheung-2009
+NUP58,RBM25,0.01105098,Co-expression,Smirnov-Cheung-2009
+EZR,NAA15,0.011878868,Co-expression,Smirnov-Cheung-2009
+BBX,MED14,0.02056735,Co-expression,Smirnov-Cheung-2009
+TMED2,RPS6KB1,0.013960376,Co-expression,Smirnov-Cheung-2009
+PTBP2,WRN,0.011800859,Co-expression,Smirnov-Cheung-2009
+RBM39,NUP58,0.005167177,Co-expression,Smirnov-Cheung-2009
+HNRNPA1,PTBP2,0.010951191,Co-expression,Smirnov-Cheung-2009
+SRSF10,RBM39,0.012456554,Co-expression,Smirnov-Cheung-2009
+TRA2B,SRSF1,0.02639243,Co-expression,Smirnov-Cheung-2009
+TRA2B,RBM39,0.009814627,Co-expression,Smirnov-Cheung-2009
+TRA2B,SRSF10,0.029102556,Co-expression,Smirnov-Cheung-2009
+RBM26,PTBP2,0.01371799,Co-expression,Smirnov-Cheung-2009
+PNISR,PTBP2,0.00788416,Co-expression,Smirnov-Cheung-2009
+PNISR,HNRNPA1,0.013974667,Co-expression,Smirnov-Cheung-2009
+PNISR,RBM26,0.016327297,Co-expression,Smirnov-Cheung-2009
+RSRC2,PTBP2,0.010297948,Co-expression,Smirnov-Cheung-2009
+RSRC2,RBM39,0.010681914,Co-expression,Smirnov-Cheung-2009
+TCERG1,WRN,0.011795836,Co-expression,Smirnov-Cheung-2009
+TCERG1,RBM25,0.014723331,Co-expression,Smirnov-Cheung-2009
+TCERG1,SRSF1,0.011948865,Co-expression,Smirnov-Cheung-2009
+TCERG1,NAA15,0.0056740902,Co-expression,Smirnov-Cheung-2009
+TCERG1,NUP58,0.0057239225,Co-expression,Smirnov-Cheung-2009
+TCERG1,RBM39,0.0052469927,Co-expression,Smirnov-Cheung-2009
+TCERG1,SRSF10,0.012716261,Co-expression,Smirnov-Cheung-2009
+TCERG1,RSRC2,0.009135482,Co-expression,Smirnov-Cheung-2009
+PNN,NUP58,0.01058851,Co-expression,Smirnov-Cheung-2009
+PNN,RBM39,0.008742274,Co-expression,Smirnov-Cheung-2009
+ZMYM2,WRN,0.015883988,Co-expression,Smirnov-Cheung-2009
+ZMYM2,PTBP2,0.008716559,Co-expression,Smirnov-Cheung-2009
+ZMYM2,HNRNPA1,0.013374851,Co-expression,Smirnov-Cheung-2009
+ZMYM2,RBM26,0.016699469,Co-expression,Smirnov-Cheung-2009
+ZMYM2,PNISR,0.00998456,Co-expression,Smirnov-Cheung-2009
+ZMYM2,RSRC2,0.013855798,Co-expression,Smirnov-Cheung-2009
+OTUD4,NUP58,0.013095945,Co-expression,Smirnov-Cheung-2009
+OTUD4,RBM39,0.012183888,Co-expression,Smirnov-Cheung-2009
+OTUD4,TCERG1,0.010844948,Co-expression,Smirnov-Cheung-2009
+ESF1,WRN,0.0145125985,Co-expression,Smirnov-Cheung-2009
+ESF1,RBM25,0.016982602,Co-expression,Smirnov-Cheung-2009
+LUC7L3,WRN,0.023549944,Co-expression,Smirnov-Cheung-2009
+LUC7L3,PTBP2,0.011957354,Co-expression,Smirnov-Cheung-2009
+LUC7L3,RBM26,0.023632143,Co-expression,Smirnov-Cheung-2009
+LUC7L3,PNISR,0.013490067,Co-expression,Smirnov-Cheung-2009
+LUC7L3,ZMYM2,0.01437853,Co-expression,Smirnov-Cheung-2009
+LUC7L3,ESF1,0.014593436,Co-expression,Smirnov-Cheung-2009
+PRPF38B,WRN,0.01222557,Co-expression,Smirnov-Cheung-2009
+PRPF38B,RBM25,0.014932503,Co-expression,Smirnov-Cheung-2009
+PRPF38B,PTBP2,0.0065108556,Co-expression,Smirnov-Cheung-2009
+PRPF38B,RBM39,0.006762701,Co-expression,Smirnov-Cheung-2009
+PRPF38B,RBM26,0.013382909,Co-expression,Smirnov-Cheung-2009
+PRPF38B,RSRC2,0.014224654,Co-expression,Smirnov-Cheung-2009
+PRPF38B,TCERG1,0.0071850866,Co-expression,Smirnov-Cheung-2009
+PRPF38B,ZMYM2,0.008062,Co-expression,Smirnov-Cheung-2009
+PRPF38B,OTUD4,0.013194345,Co-expression,Smirnov-Cheung-2009
+PRPF38B,LUC7L3,0.013001339,Co-expression,Smirnov-Cheung-2009
+NUP58,MED14,0.00919715,Co-expression,Chen-Brown-2002
+NUP58,SRSF1,0.020703355,Co-expression,Chen-Brown-2002
+RBM39,MED14,0.011113055,Co-expression,Chen-Brown-2002
+RBM39,RBM25,0.015247655,Co-expression,Chen-Brown-2002
+RBM39,SRSF1,0.019519791,Co-expression,Chen-Brown-2002
+HNRNPA1,RBM39,0.0063714744,Co-expression,Chen-Brown-2002
+MATR3,HNRNPA1,0.0042600837,Co-expression,Chen-Brown-2002
+TRA2B,SRSF1,0.023687735,Co-expression,Chen-Brown-2002
+TRA2B,NUP58,0.016191356,Co-expression,Chen-Brown-2002
+HNRNPAB,NAA15,0.008990881,Co-expression,Chen-Brown-2002
+HNRNPAB,TRA2B,0.010151732,Co-expression,Chen-Brown-2002
+NAA50,CSNK1A1,0.0056604533,Co-expression,Chen-Brown-2002
+NAA50,NUP58,0.011501964,Co-expression,Chen-Brown-2002
+RBM26,MED14,0.009301175,Co-expression,Chen-Brown-2002
+PNISR,RBM25,0.011652864,Co-expression,Chen-Brown-2002
+PNISR,PTBP2,0.012223672,Co-expression,Chen-Brown-2002
+TCERG1,MED14,0.01017587,Co-expression,Chen-Brown-2002
+TCERG1,TRA2B,0.022210738,Co-expression,Chen-Brown-2002
+TCERG1,RBM26,0.021734482,Co-expression,Chen-Brown-2002
+PNN,RBM25,0.014192832,Co-expression,Chen-Brown-2002
+PNN,SRSF1,0.01702247,Co-expression,Chen-Brown-2002
+PNN,PTBP2,0.012182865,Co-expression,Chen-Brown-2002
+PNN,RBM39,0.019503465,Co-expression,Chen-Brown-2002
+PNN,TRA2B,0.02311765,Co-expression,Chen-Brown-2002
+ZMYM2,RPS6KB1,0.017268663,Co-expression,Chen-Brown-2002
+LUC7L3,MED14,0.008190984,Co-expression,Chen-Brown-2002
+LUC7L3,PNN,0.012119225,Co-expression,Chen-Brown-2002
+PRPF38B,MED14,0.011814097,Co-expression,Chen-Brown-2002
+PRPF38B,RBM25,0.014232626,Co-expression,Chen-Brown-2002
+PRPF38B,SRSF1,0.024919888,Co-expression,Chen-Brown-2002
+PRPF38B,NUP58,0.014993532,Co-expression,Chen-Brown-2002
+PRPF38B,PTBP2,0.014469627,Co-expression,Chen-Brown-2002
+PRPF38B,RBM39,0.01812585,Co-expression,Chen-Brown-2002
+PRPF38B,PNISR,0.020704934,Co-expression,Chen-Brown-2002
+PRPF38B,PNN,0.02030302,Co-expression,Chen-Brown-2002
+PRPF38B,LUC7L3,0.016580433,Co-expression,Chen-Brown-2002
+NAA15,RBM25,0.013419757,Co-expression,Wang-Cheung-2015
+NUP58,RBM25,0.013152373,Co-expression,Wang-Cheung-2015
+EZR,SZRD1,0.017432133,Co-expression,Wang-Cheung-2015
+BBX,STK4,0.005763478,Co-expression,Wang-Cheung-2015
+HNRNPA1,RBM39,0.016858919,Co-expression,Wang-Cheung-2015
+HNRNPAB,MBD4,0.0041344985,Co-expression,Wang-Cheung-2015
+HNRNPAB,SRSF1,0.0056121103,Co-expression,Wang-Cheung-2015
+NAA50,WRN,0.0050684293,Co-expression,Wang-Cheung-2015
+NAA50,RBM39,0.0043818387,Co-expression,Wang-Cheung-2015
+NAA50,HNRNPA0,0.008577418,Co-expression,Wang-Cheung-2015
+RSRC2,NAA15,0.009940785,Co-expression,Wang-Cheung-2015
+RSRC2,NUP58,0.012292906,Co-expression,Wang-Cheung-2015
+TCERG1,MBD4,0.0067576785,Co-expression,Wang-Cheung-2015
+TCERG1,TMED2,0.00627086,Co-expression,Wang-Cheung-2015
+PNN,NUP58,0.010109303,Co-expression,Wang-Cheung-2015
+KHSRP,NAA15,0.0110352505,Co-expression,Wang-Cheung-2015
+ZMYM2,BBX,0.0072368346,Co-expression,Wang-Cheung-2015
+OTUD4,RBM39,0.0139803905,Co-expression,Wang-Cheung-2015
+ESF1,STK4,0.013521824,Co-expression,Wang-Cheung-2015
+ESF1,RBM25,0.016163863,Co-expression,Wang-Cheung-2015
+ESF1,NAA15,0.008730916,Co-expression,Wang-Cheung-2015
+PRPF38B,NAA50,0.0056797215,Co-expression,Wang-Cheung-2015
+RPS6KB1,STK4,0.017444132,Co-expression,Burington-Shaughnessy-2008
+BBX,MBD4,0.009892923,Co-expression,Burington-Shaughnessy-2008
+RBM39,SRSF1,0.011063073,Co-expression,Burington-Shaughnessy-2008
+HNRNPA1,RBM25,0.011458168,Co-expression,Burington-Shaughnessy-2008
+HNRNPA1,NUP58,0.010451061,Co-expression,Burington-Shaughnessy-2008
+SRSF10,RPS6KB1,0.016964294,Co-expression,Burington-Shaughnessy-2008
+SRSF10,SRSF1,0.0130521925,Co-expression,Burington-Shaughnessy-2008
+SAP18,NUP58,0.023528295,Co-expression,Burington-Shaughnessy-2008
+TRA2B,SRSF1,0.009028394,Co-expression,Burington-Shaughnessy-2008
+TRA2B,SRSF10,0.011384849,Co-expression,Burington-Shaughnessy-2008
+HNRNPA0,RBM25,0.012022832,Co-expression,Burington-Shaughnessy-2008
+HNRNPA0,RBM39,0.010174669,Co-expression,Burington-Shaughnessy-2008
+PNISR,RBM25,0.016079588,Co-expression,Burington-Shaughnessy-2008
+PNISR,NUP58,0.013392346,Co-expression,Burington-Shaughnessy-2008
+PNISR,RBM39,0.012230918,Co-expression,Burington-Shaughnessy-2008
+RSRC2,RBM25,0.016352806,Co-expression,Burington-Shaughnessy-2008
+RSRC2,RBM39,0.017634453,Co-expression,Burington-Shaughnessy-2008
+RSRC2,SAP18,0.014476241,Co-expression,Burington-Shaughnessy-2008
+RSRC2,HNRNPA0,0.011875354,Co-expression,Burington-Shaughnessy-2008
+RSRC2,PNISR,0.009829355,Co-expression,Burington-Shaughnessy-2008
+TCERG1,RBM25,0.012730855,Co-expression,Burington-Shaughnessy-2008
+TCERG1,SRSF1,0.008149812,Co-expression,Burington-Shaughnessy-2008
+TCERG1,RBM39,0.010952317,Co-expression,Burington-Shaughnessy-2008
+TCERG1,TRA2B,0.006968772,Co-expression,Burington-Shaughnessy-2008
+TCERG1,HNRNPAB,0.008386471,Co-expression,Burington-Shaughnessy-2008
+TCERG1,HNRNPA0,0.005896953,Co-expression,Burington-Shaughnessy-2008
+PNN,RBM25,0.021938361,Co-expression,Burington-Shaughnessy-2008
+PNN,HNRNPA0,0.010748218,Co-expression,Burington-Shaughnessy-2008
+PNN,TCERG1,0.0104602715,Co-expression,Burington-Shaughnessy-2008
+KHSRP,SRSF1,0.012894025,Co-expression,Burington-Shaughnessy-2008
+ZMYM2,NUP58,0.021025991,Co-expression,Burington-Shaughnessy-2008
+ZMYM2,SAP18,0.020061659,Co-expression,Burington-Shaughnessy-2008
+ZMYM2,RSRC2,0.011132318,Co-expression,Burington-Shaughnessy-2008
+OTUD4,KMT2A,0.00826732,Co-expression,Burington-Shaughnessy-2008
+OTUD4,HNRNPA1,0.010201577,Co-expression,Burington-Shaughnessy-2008
+LUC7L3,RBM25,0.010682489,Co-expression,Burington-Shaughnessy-2008
+LUC7L3,NUP58,0.010847473,Co-expression,Burington-Shaughnessy-2008
+LUC7L3,RBM39,0.008697694,Co-expression,Burington-Shaughnessy-2008
+LUC7L3,HNRNPA1,0.006678734,Co-expression,Burington-Shaughnessy-2008
+LUC7L3,SAP18,0.0081169475,Co-expression,Burington-Shaughnessy-2008
+LUC7L3,PNISR,0.008121159,Co-expression,Burington-Shaughnessy-2008
+LUC7L3,PNN,0.011287056,Co-expression,Burington-Shaughnessy-2008
+NAA15,RPS6KB1,0.024102796,Co-expression,Roth-Zlotnik-2006
+HNRNPA1,SRSF1,0.009281271,Co-expression,Roth-Zlotnik-2006
+HNRNPA1,NAA15,0.006397112,Co-expression,Roth-Zlotnik-2006
+HNRNPA1,RBM39,0.0071487483,Co-expression,Roth-Zlotnik-2006
+HNRNPAB,CSNK1A1,0.013280202,Co-expression,Roth-Zlotnik-2006
+HNRNPA0,RBM23,0.014542402,Co-expression,Roth-Zlotnik-2006
+RBM26,MBD4,0.014354326,Co-expression,Roth-Zlotnik-2006
+RBM26,RBM25,0.029243255,Co-expression,Roth-Zlotnik-2006
+PNISR,RBM25,0.015154483,Co-expression,Roth-Zlotnik-2006
+PNISR,SRSF1,0.013107529,Co-expression,Roth-Zlotnik-2006
+PNISR,KMT2A,0.012262568,Co-expression,Roth-Zlotnik-2006
+PNISR,RBM39,0.010284064,Co-expression,Roth-Zlotnik-2006
+PNISR,HNRNPA1,0.0046935994,Co-expression,Roth-Zlotnik-2006
+PNISR,RBM26,0.014311313,Co-expression,Roth-Zlotnik-2006
+RSRC2,RBM25,0.026195692,Co-expression,Roth-Zlotnik-2006
+PNN,HNRNPA1,0.011018798,Co-expression,Roth-Zlotnik-2006
+LUC7L3,SRSF1,0.016177421,Co-expression,Roth-Zlotnik-2006
+LUC7L3,KMT2A,0.016050013,Co-expression,Roth-Zlotnik-2006
+LUC7L3,PNISR,0.008284805,Co-expression,Roth-Zlotnik-2006
+PRPF38B,MBD4,0.00836705,Co-expression,Roth-Zlotnik-2006
+BBX,STK4,0.011789529,Co-expression,Perou-Botstein-2000
+BBX,KMT2A,0.011828011,Co-expression,Perou-Botstein-2000
+TMED2,EZR,0.013904376,Co-expression,Perou-Botstein-2000
+SRSF10,RPS6KB1,0.009546933,Co-expression,Perou-Botstein-2000
+TRA2B,HNRNPA1,0.0048284493,Co-expression,Perou-Botstein-2000
+TRA2B,SRSF10,0.0073040873,Co-expression,Perou-Botstein-2000
+HNRNPAB,TRA2B,0.0050064074,Co-expression,Perou-Botstein-2000
+RBM26,SRSF10,0.011387573,Co-expression,Perou-Botstein-2000
+RBM26,TRA2B,0.008061713,Co-expression,Perou-Botstein-2000
+PNN,RBM25,0.016901715,Co-expression,Perou-Botstein-2000
+PNN,RBM39,0.013900877,Co-expression,Perou-Botstein-2000
+PNN,TRA2B,0.0069341036,Co-expression,Perou-Botstein-2000
+PNN,HNRNPAB,0.0062428056,Co-expression,Perou-Botstein-2000
+KHSRP,HNRNPAB,0.009252371,Co-expression,Perou-Botstein-2000
+SRSF1,RPS6KB1,0.009567046,Co-expression,Wang-Maris-2006
+RBM39,MBD4,0.010483723,Co-expression,Wang-Maris-2006
+RBM39,SRSF1,0.005996361,Co-expression,Wang-Maris-2006
+HNRNPA1,RBM39,0.009121028,Co-expression,Wang-Maris-2006
+TRA2B,SRSF1,0.0068407645,Co-expression,Wang-Maris-2006
+HNRNPAB,TMED2,0.008311261,Co-expression,Wang-Maris-2006
+HNRNPAB,TRA2B,0.0064898883,Co-expression,Wang-Maris-2006
+HNRNPA0,TRA2B,0.007336754,Co-expression,Wang-Maris-2006
+HNRNPA0,HNRNPAB,0.0062185903,Co-expression,Wang-Maris-2006
+PRPF31,ANAPC5,0.020111954,Co-expression,Wang-Maris-2006
+PNISR,RBM39,0.0052260193,Co-expression,Wang-Maris-2006
+RSRC2,MBD4,0.015784798,Co-expression,Wang-Maris-2006
+RSRC2,RBM39,0.0094772875,Co-expression,Wang-Maris-2006
+TCERG1,RPS6KB1,0.01159047,Co-expression,Wang-Maris-2006
+TCERG1,SRSF1,0.0067180567,Co-expression,Wang-Maris-2006
+TCERG1,RBM39,0.007866072,Co-expression,Wang-Maris-2006
+TCERG1,HNRNPA1,0.009886143,Co-expression,Wang-Maris-2006
+TCERG1,HNRNPA0,0.0075745224,Co-expression,Wang-Maris-2006
+TCERG1,PNISR,0.005464156,Co-expression,Wang-Maris-2006
+TCERG1,RSRC2,0.010096754,Co-expression,Wang-Maris-2006
+PNN,WRN,0.009762239,Co-expression,Wang-Maris-2006
+PNN,SRSF1,0.008955304,Co-expression,Wang-Maris-2006
+PNN,RBM39,0.011270341,Co-expression,Wang-Maris-2006
+PNN,HNRNPA1,0.013479414,Co-expression,Wang-Maris-2006
+PNN,RSRC2,0.014401054,Co-expression,Wang-Maris-2006
+PNN,TCERG1,0.010577197,Co-expression,Wang-Maris-2006
+ZMYM2,NUP58,0.01737973,Co-expression,Wang-Maris-2006
+OTUD4,KMT2A,0.008149639,Co-expression,Wang-Maris-2006
+OTUD4,RBM39,0.009562211,Co-expression,Wang-Maris-2006
+OTUD4,PNISR,0.008776863,Co-expression,Wang-Maris-2006
+LUC7L3,RBM39,0.009546599,Co-expression,Wang-Maris-2006
+LUC7L3,HNRNPA1,0.012273777,Co-expression,Wang-Maris-2006
+LUC7L3,PNISR,0.009354386,Co-expression,Wang-Maris-2006
+LUC7L3,RSRC2,0.014541115,Co-expression,Wang-Maris-2006
+LUC7L3,TCERG1,0.011765269,Co-expression,Wang-Maris-2006
+LUC7L3,PNN,0.013466782,Co-expression,Wang-Maris-2006
+LUC7L3,OTUD4,0.014187166,Co-expression,Wang-Maris-2006
+NAA15,RBM25,0.015251578,Co-expression,Dobbin-Giordano-2005
+HNRNPA1,RBM25,0.020410597,Co-expression,Dobbin-Giordano-2005
+HNRNPAB,SRSF1,0.014691492,Co-expression,Dobbin-Giordano-2005
+PNISR,PTBP2,0.01200653,Co-expression,Dobbin-Giordano-2005
+RSRC2,NAA15,0.015844818,Co-expression,Dobbin-Giordano-2005
+RSRC2,HNRNPA1,0.017806083,Co-expression,Dobbin-Giordano-2005
+TCERG1,RPS6KB1,0.011591919,Co-expression,Dobbin-Giordano-2005
+TCERG1,RBM25,0.010855071,Co-expression,Dobbin-Giordano-2005
+TCERG1,HNRNPA1,0.010638715,Co-expression,Dobbin-Giordano-2005
+ZMYM2,PNISR,0.01682525,Co-expression,Dobbin-Giordano-2005
+ESF1,RBM25,0.0225318,Co-expression,Dobbin-Giordano-2005
+ESF1,PTBP2,0.012055333,Co-expression,Dobbin-Giordano-2005
+ESF1,RSRC2,0.023047917,Co-expression,Dobbin-Giordano-2005
+ESF1,TCERG1,0.008028406,Co-expression,Dobbin-Giordano-2005
+LUC7L3,PNISR,0.015675893,Co-expression,Dobbin-Giordano-2005
+LUC7L3,TCERG1,0.007879971,Co-expression,Dobbin-Giordano-2005
+PRPF38B,TCERG1,0.009674218,Co-expression,Dobbin-Giordano-2005
+PTBP2,WRN,0.017925305,Co-expression,Boldrick-Relman-2002
+PNISR,HNRNPA1,0.012988274,Co-expression,Boldrick-Relman-2002
+RSRC2,SMURF1,0.013217366,Co-expression,Boldrick-Relman-2002
+KHSRP,NAA15,0.003687258,Co-expression,Boldrick-Relman-2002
+KHSRP,TCERG1,0.0021369176,Co-expression,Boldrick-Relman-2002
+TMED2,CSNK1A1,0.02102073,Co-expression,Ramaswamy-Golub-2001
+MATR3,CSNK1A1,0.012266427,Co-expression,Ramaswamy-Golub-2001
+SRSF10,PTBP2,0.009348522,Co-expression,Ramaswamy-Golub-2001
+SAP18,TMED2,0.011374511,Co-expression,Ramaswamy-Golub-2001
+HNRNPA0,MATR3,0.009510597,Co-expression,Ramaswamy-Golub-2001
+RSRC2,PTBP2,0.017231002,Co-expression,Ramaswamy-Golub-2001
+TCERG1,MED14,0.0054328176,Co-expression,Ramaswamy-Golub-2001
+TCERG1,RBM25,0.0069033196,Co-expression,Ramaswamy-Golub-2001
+TCERG1,SRSF10,0.0037746655,Co-expression,Ramaswamy-Golub-2001
+TCERG1,PNISR,0.0073307664,Co-expression,Ramaswamy-Golub-2001
+PNN,RBM39,0.008610324,Co-expression,Ramaswamy-Golub-2001
+PNN,HNRNPA1,0.0058796746,Co-expression,Ramaswamy-Golub-2001
+OTUD4,PNN,0.007968175,Co-expression,Ramaswamy-Golub-2001
+LUC7L3,PNISR,0.033353705,Co-expression,Ramaswamy-Golub-2001
+LUC7L3,TCERG1,0.0070536975,Co-expression,Ramaswamy-Golub-2001
+PRPF38B,TCERG1,0.0076895617,Co-expression,Ramaswamy-Golub-2001
+SRSF1,WRN,0.011905241,Co-expression,Mallon-McKay-2013
+RBM39,ANAPC5,0.007546516,Co-expression,Mallon-McKay-2013
+RBM39,WRN,0.004748592,Co-expression,Mallon-McKay-2013
+HNRNPA0,HNRNPAB,0.012791587,Co-expression,Mallon-McKay-2013
+NAA50,HNRNPAB,0.011500386,Co-expression,Mallon-McKay-2013
+RSRC2,MBD4,0.020358441,Co-expression,Mallon-McKay-2013
+TCERG1,WRN,0.0043450966,Co-expression,Mallon-McKay-2013
+TCERG1,SRSF1,0.0111269,Co-expression,Mallon-McKay-2013
+PNN,WRN,0.006287438,Co-expression,Mallon-McKay-2013
+PNN,PNISR,0.014837352,Co-expression,Mallon-McKay-2013
+KHSRP,PRPF31,0.008110038,Co-expression,Mallon-McKay-2013
+LUC7L3,PNN,0.014664796,Co-expression,Mallon-McKay-2013
+PRPF38B,WRN,0.006460157,Co-expression,Mallon-McKay-2013
+PRPF38B,SRSF1,0.015463772,Co-expression,Mallon-McKay-2013
+SRSF1,RPS6KB1,0.0113021275,Co-expression,Rieger-Chu-2004
+RBM39,NUP58,0.011715306,Co-expression,Rieger-Chu-2004
+TRA2B,SRSF1,0.008306093,Co-expression,Rieger-Chu-2004
+HNRNPAB,SRSF1,0.003781851,Co-expression,Rieger-Chu-2004
+HNRNPAB,TRA2B,0.003895468,Co-expression,Rieger-Chu-2004
+PRPF31,ANAPC5,0.007985831,Co-expression,Rieger-Chu-2004
+PNISR,RBM25,0.008078925,Co-expression,Rieger-Chu-2004
+PNISR,NUP58,0.009015152,Co-expression,Rieger-Chu-2004
+PNISR,RBM39,0.0073184785,Co-expression,Rieger-Chu-2004
+RSRC2,RBM39,0.014473966,Co-expression,Rieger-Chu-2004
+TCERG1,SRSF1,0.0044852826,Co-expression,Rieger-Chu-2004
+TCERG1,RBM39,0.0048230565,Co-expression,Rieger-Chu-2004
+TCERG1,TRA2B,0.004247399,Co-expression,Rieger-Chu-2004
+PNN,RBM39,0.017221123,Co-expression,Rieger-Chu-2004
+PNN,TCERG1,0.010793617,Co-expression,Rieger-Chu-2004
+ZMYM2,RBM39,0.0048366776,Co-expression,Rieger-Chu-2004
+ZMYM2,PNISR,0.0036576698,Co-expression,Rieger-Chu-2004
+OTUD4,NUP58,0.01519216,Co-expression,Rieger-Chu-2004
+OTUD4,PNISR,0.0078299865,Co-expression,Rieger-Chu-2004
+LUC7L3,RBM39,0.008530548,Co-expression,Rieger-Chu-2004
+LUC7L3,PNISR,0.0067000748,Co-expression,Rieger-Chu-2004
+LUC7L3,TCERG1,0.0044637183,Co-expression,Rieger-Chu-2004
+LUC7L3,PNN,0.014645142,Co-expression,Rieger-Chu-2004
+LUC7L3,ZMYM2,0.0041796565,Co-expression,Rieger-Chu-2004
+LUC7L3,OTUD4,0.0073666302,Co-expression,Rieger-Chu-2004
+BBX,KMT2A,0.004892012,Co-expression,Bild-Nevins-2006 B
+HNRNPA1,ANAPC5,0.017509338,Co-expression,Bild-Nevins-2006 B
+SRSF10,SRSF1,0.009820673,Co-expression,Bild-Nevins-2006 B
+SRSF10,SMURF1,0.011835892,Co-expression,Bild-Nevins-2006 B
+SAP18,BBX,0.009526052,Co-expression,Bild-Nevins-2006 B
+TRA2B,SRSF1,0.010109042,Co-expression,Bild-Nevins-2006 B
+HNRNPA0,TRA2B,0.003627725,Co-expression,Bild-Nevins-2006 B
+PNISR,HNRNPA0,0.0034315528,Co-expression,Bild-Nevins-2006 B
+RSRC2,HNRNPA1,0.015060004,Co-expression,Bild-Nevins-2006 B
+RSRC2,HNRNPA0,0.0052072713,Co-expression,Bild-Nevins-2006 B
+RSRC2,PNISR,0.0079740975,Co-expression,Bild-Nevins-2006 B
+TCERG1,SRSF1,0.013834636,Co-expression,Bild-Nevins-2006 B
+TCERG1,PNISR,0.007225824,Co-expression,Bild-Nevins-2006 B
+TCERG1,RSRC2,0.016113948,Co-expression,Bild-Nevins-2006 B
+PNN,TRA2B,0.012227768,Co-expression,Bild-Nevins-2006 B
+PNN,HNRNPA0,0.006800787,Co-expression,Bild-Nevins-2006 B
+PNN,PNISR,0.009882651,Co-expression,Bild-Nevins-2006 B
+PNN,TCERG1,0.018122021,Co-expression,Bild-Nevins-2006 B
+ZMYM2,RBM25,0.010712597,Co-expression,Bild-Nevins-2006 B
+ZMYM2,NUP58,0.0140674,Co-expression,Bild-Nevins-2006 B
+ZMYM2,HNRNPA1,0.009435819,Co-expression,Bild-Nevins-2006 B
+ZMYM2,SAP18,0.019989079,Co-expression,Bild-Nevins-2006 B
+ZMYM2,RSRC2,0.012310213,Co-expression,Bild-Nevins-2006 B
+ZMYM2,TCERG1,0.00980356,Co-expression,Bild-Nevins-2006 B
+LUC7L3,SRSF1,0.014511169,Co-expression,Bild-Nevins-2006 B
+PTBP2,KMT2A,0.012050714,Co-localization,Johnson-Shoemaker-2003
+HNRNPA1,SRSF1,0.006952799,Co-localization,Johnson-Shoemaker-2003
+HNRNPA1,RBM39,0.010275725,Co-localization,Johnson-Shoemaker-2003
+MATR3,PTBP2,0.011881481,Co-localization,Johnson-Shoemaker-2003
+SRSF10,HNRNPA1,0.008101218,Co-localization,Johnson-Shoemaker-2003
+TRA2B,SRSF1,0.004066636,Co-localization,Johnson-Shoemaker-2003
+HNRNPAB,HNRNPA1,0.017166905,Co-localization,Johnson-Shoemaker-2003
+NAA50,MBD4,0.011334312,Co-localization,Johnson-Shoemaker-2003
+NAA50,NAA15,0.006303604,Co-localization,Johnson-Shoemaker-2003
+RSRC2,RBM39,0.0218719,Co-localization,Johnson-Shoemaker-2003
+PNN,SRSF1,0.006464981,Co-localization,Johnson-Shoemaker-2003
+PNN,RBM39,0.013758038,Co-localization,Johnson-Shoemaker-2003
+PNN,HNRNPA1,0.010985176,Co-localization,Johnson-Shoemaker-2003
+PNN,SRSF10,0.0077904677,Co-localization,Johnson-Shoemaker-2003
+KHSRP,SRSF1,0.010302071,Co-localization,Johnson-Shoemaker-2003
+LUC7L3,SRSF1,0.0062383744,Co-localization,Johnson-Shoemaker-2003
+LUC7L3,HNRNPA1,0.010539539,Co-localization,Johnson-Shoemaker-2003
+LUC7L3,PNN,0.01603006,Co-localization,Johnson-Shoemaker-2003
+RPS6KB1,MED14,0.00063755916,Genetic Interactions,Lin-Smith-2010
+RPS6KB1,CSNK1A1,0.00092558656,Genetic Interactions,Lin-Smith-2010
+RBM25,RPS6KB1,0.0006402533,Genetic Interactions,Lin-Smith-2010
+NAA15,RBM25,0.00060844683,Genetic Interactions,Lin-Smith-2010
+NUP58,MED14,0.0008969983,Genetic Interactions,Lin-Smith-2010
+NUP58,CSNK1A1,0.0013022316,Genetic Interactions,Lin-Smith-2010
+NUP58,NAA15,0.001192757,Genetic Interactions,Lin-Smith-2010
+KMT2A,MED14,0.0005343804,Genetic Interactions,Lin-Smith-2010
+KMT2A,ANAPC5,0.0009584497,Genetic Interactions,Lin-Smith-2010
+BBX,CSNK1A1,0.00092361745,Genetic Interactions,Lin-Smith-2010
+BBX,SRSF1,0.0012191738,Genetic Interactions,Lin-Smith-2010
+PTBP2,NAA15,0.0005346884,Genetic Interactions,Lin-Smith-2010
+RBM39,SZRD1,0.0016136928,Genetic Interactions,Lin-Smith-2010
+RBM39,RBM25,0.00048244547,Genetic Interactions,Lin-Smith-2010
+RBM39,KMT2A,0.0005634255,Genetic Interactions,Lin-Smith-2010
+SMURF1,RBM25,0.0006171752,Genetic Interactions,Lin-Smith-2010
+SAP18,RBM25,0.00079097704,Genetic Interactions,Lin-Smith-2010
+HNRNPAB,NAA15,0.0009382606,Genetic Interactions,Lin-Smith-2010
+HNRNPAB,BBX,0.0009852077,Genetic Interactions,Lin-Smith-2010
+HNRNPAB,MATR3,0.001850039,Genetic Interactions,Lin-Smith-2010
+HNRNPA0,RBM23,0.004437989,Genetic Interactions,Lin-Smith-2010
+RBM26,C5orf24,0.0011694145,Genetic Interactions,Lin-Smith-2010
+RBM26,MED14,0.00045343165,Genetic Interactions,Lin-Smith-2010
+RBM26,ANAPC5,0.0008132623,Genetic Interactions,Lin-Smith-2010
+RBM26,CSNK1A1,0.00065827655,Genetic Interactions,Lin-Smith-2010
+RBM26,EZR,0.0007714233,Genetic Interactions,Lin-Smith-2010
+RBM26,PTBP2,0.00040014862,Genetic Interactions,Lin-Smith-2010
+RBM26,HNRNPAB,0.00070217287,Genetic Interactions,Lin-Smith-2010
+PNISR,NAA15,0.0019059373,Genetic Interactions,Lin-Smith-2010
+PNISR,MATR3,0.0037580798,Genetic Interactions,Lin-Smith-2010
+TCERG1,RBM25,0.0013677403,Genetic Interactions,Lin-Smith-2010
+PNN,EZR,0.0019853448,Genetic Interactions,Lin-Smith-2010
+KHSRP,PNISR,0.008570912,Genetic Interactions,Lin-Smith-2010
+ZMYM2,BBX,0.0011277975,Genetic Interactions,Lin-Smith-2010
+ZMYM2,PNISR,0.0025408778,Genetic Interactions,Lin-Smith-2010
+OTUD4,ANAPC5,0.0006584561,Genetic Interactions,Lin-Smith-2010
+OTUD4,SRSF1,0.0007035225,Genetic Interactions,Lin-Smith-2010
+OTUD4,NUP58,0.0007227178,Genetic Interactions,Lin-Smith-2010
+OTUD4,BBX,0.000512593,Genetic Interactions,Lin-Smith-2010
+OTUD4,PTBP2,0.00032397948,Genetic Interactions,Lin-Smith-2010
+OTUD4,RBM23,0.0011205842,Genetic Interactions,Lin-Smith-2010
+OTUD4,RBM26,0.00036533305,Genetic Interactions,Lin-Smith-2010
+OTUD4,PNN,0.0009402256,Genetic Interactions,Lin-Smith-2010
+LUC7L3,RBM39,0.00058831414,Genetic Interactions,Lin-Smith-2010
+LUC7L3,RBM26,0.00055527,Genetic Interactions,Lin-Smith-2010
+LUC7L3,PNN,0.0014290499,Genetic Interactions,Lin-Smith-2010
+PRPF38B,CSNK1A1,0.000817575,Genetic Interactions,Lin-Smith-2010
+PRPF38B,RBM25,0.00056553876,Genetic Interactions,Lin-Smith-2010
+PRPF38B,BBX,0.0007863135,Genetic Interactions,Lin-Smith-2010
+PRPF38B,LUC7L3,0.00068964163,Genetic Interactions,Lin-Smith-2010
+NUP58,SRSF1,0.009841988,Pathway,Wu-Stein-2010
+HNRNPA1,SRSF1,0.008368428,Pathway,Wu-Stein-2010
+HNRNPA0,SRSF1,0.008483524,Pathway,Wu-Stein-2010
+HNRNPA0,HNRNPA1,0.010155816,Pathway,Wu-Stein-2010
+HNRNPA1,SRSF1,0.010123826,Pathway,REACTOME
+HNRNPA0,SRSF1,0.010123826,Pathway,REACTOME
+HNRNPA0,HNRNPA1,0.011579039,Pathway,REACTOME
+SMURF1,SRSF1,0.07715168,Physical Interactions,Xie-Cong-2013
+SMURF1,HNRNPA1,0.07715168,Physical Interactions,Xie-Cong-2013
+HNRNPAB,SMURF1,0.07715168,Physical Interactions,Xie-Cong-2013
+HNRNPA0,SMURF1,0.07715168,Physical Interactions,Xie-Cong-2013
+PRPF31,SMURF1,0.07715168,Physical Interactions,Xie-Cong-2013
+RBM39,RBM25,0.12745388,Physical Interactions,Hegele-Stelzl-2012 B
+MATR3,PTBP2,0.43160757,Physical Interactions,Hegele-Stelzl-2012 B
+SRSF10,SRSF1,0.38094828,Physical Interactions,Hegele-Stelzl-2012 B
+SAP18,RBM39,0.4249804,Physical Interactions,Hegele-Stelzl-2012 B
+RBM23,RBM25,0.22827326,Physical Interactions,Hegele-Stelzl-2012 B
+RBM23,RBM39,0.08086858,Physical Interactions,Hegele-Stelzl-2012 B
+TRA2B,HNRNPA1,0.23811673,Physical Interactions,Hegele-Stelzl-2012 B
+TRA2B,SRSF10,0.21852726,Physical Interactions,Hegele-Stelzl-2012 B
+HNRNPAB,PTBP2,0.23883101,Physical Interactions,Hegele-Stelzl-2012 B
+HNRNPA0,SRSF1,0.20143114,Physical Interactions,Hegele-Stelzl-2012 B
+PRPF31,RBM25,0.2265235,Physical Interactions,Hegele-Stelzl-2012 B
+HNRNPA1,RBM39,0.07052563,Physical Interactions,Jeronimo-Coulombe-2007
+HNRNPAB,HNRNPA1,0.10924317,Physical Interactions,Jeronimo-Coulombe-2007
+KHSRP,HNRNPA1,0.086105116,Physical Interactions,Jeronimo-Coulombe-2007
+SMURF1,ANAPC5,0.052575335,Physical Interactions,Barrios-Rodiles-Wrana-2005

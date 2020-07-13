@@ -1,0 +1,28 @@
+VIRID,HGNC Symbol,Status,Chromosome,Map Location,Description,Type,Fold Change,P-Value,False Discovery Rate,Probe ID
+VIRNG1,ACYP1,Upregulated,14,14q24.3,acylphosphatase 1,protein-coding,0.908,2.65E-09,7.23E-05,205260_s_at
+VIRNG2,APLP2,Upregulated,11,11q24.3,amyloid beta precursor like protein 2,protein-coding,0.967,5.42E-08,0.0006054,208701_at
+VIRNG3,ARNTL,Upregulated,11,11p15.3,aryl hydrocarbon receptor nuclear translocator like,protein-coding,1.23,1.07E-06,0.0022424,209824_s_at
+VIRNG4,CEBPG,Upregulated,19,19q13.11,CCAAT enhancer binding protein gamma,protein-coding,0.8,7.23E-07,0.0017187,225527_at
+VIRNG5,CEP68,Upregulated,2,2p14,centrosomal protein 68,protein-coding,0.872,1.59E-06,0.0031083,1559159_at
+VIRNG6,CPEB2,Upregulated,4,4p15.32,cytoplasmic polyadenylation element binding protein 2,protein-coding,0.985,1.19E-07,0.0006831,235479_at
+VIRNG7,CREBZF,Upregulated,11,11q14.1,CREB/ATF bZIP transcription factor,protein-coding,0.699,6.63E-07,0.0017187,225594_at
+VIRNG8,DIP2A,Upregulated,21,21q22.3,disco interacting protein 2 homolog A,protein-coding,0.706,8.81E-08,0.0006831,227199_at
+VIRNG9,HNRNPA3,Upregulated,2,2q31.2,heterogeneous nuclear ribonucleoprotein A3,protein-coding,0.579,5.21E-07,0.0015818,211931_s_at
+VIRNG10,HNRNPA3P1,Upregulated,10,10q11.21,heterogeneous nuclear ribonucleoprotein A3 pseudogene 1,pseudo,0.579,5.21E-07,0.0015818,211931_s_at
+VIRNG11,HTATSF1,Upregulated,X,Xq26.3,HIV-1 Tat specific factor 1,protein-coding,0.78,6.03E-11,3.3E-06,202602_s_at
+VIRNG12,JKAMP,Upregulated,14,14q23.1,JNK1/MAPK8 associated membrane protein,protein-coding,0.556,8.4E-07,0.0019147,223215_s_at
+VIRNG13,KIN,Upregulated,10,10p14,Kin17 DNA and RNA binding protein,protein-coding,1.08,2.63E-06,0.0046401,242603_x_at
+VIRNG14,KLHL42,Upregulated,12,12p11.22,kelch like family member 42,protein-coding,0.676,2.16E-07,0.0010717,225961_at
+VIRNG15,MAFG,Upregulated,17,17q25.3,MAF bZIP transcription factor G,protein-coding,0.698,8.66E-08,0.0006831,204970_s_at
+VIRNG16,MFN2,Upregulated,1,1p36.22,mitofusin 2,protein-coding,0.611,3.62E-07,0.0011638,201155_s_at
+VIRNG17,ORC2,Upregulated,2,2q33.1,origin recognition complex subunit 2,protein-coding,0.781,1.2E-07,0.0006831,204853_at
+VIRNG18,PAGR1,Upregulated,16,16p11.2,PAXIP1 associated glutamate rich protein 1,protein-coding,0.965,3.43E-07,0.0011638,218300_at
+VIRNG19,PDPK1,Upregulated,16,16p13.3,3-phosphoinositide dependent protein kinase 1,protein-coding,0.741,1.15E-06,0.0023288,221244_s_at
+VIRNG20,PEX5,Upregulated,12,12p13.31,peroxisomal biogenesis factor 5,protein-coding,0.751,2.75E-06,0.0046953,203244_at
+VIRNG21,PRKX,Upregulated,X,Xp22.33,protein kinase X-linked,protein-coding,0.844,3.27E-07,0.0011638,204060_s_at
+VIRNG22,PRKY,Upregulated,Y,Yp11.2,protein kinase Y-linked (pseudogene),pseudo,0.844,3.27E-07,0.0011638,204060_s_at
+VIRNG23,RGS12,Upregulated,4,4p16.3,regulator of G protein signaling 12,protein-coding,1.05,1.81E-06,0.0034097,242079_at
+VIRNG24,TLE4,Upregulated,9,9q21.31,"TLE family member 4, transcriptional corepressor",protein-coding,0.843,1.25E-07,0.0006831,235765_at
+VIRNG25,TMEM70,Upregulated,8,8q21.11,transmembrane protein 70,protein-coding,0.751,3.5915E-07,0.00095275,219449_s_at | 226083_at
+VIRNG26,TRNAU1AP,Upregulated,1,1p35.3,tRNA selenocysteine 1 associated protein 1,protein-coding,0.521,1.87E-06,0.0034097,218977_s_at
+VIRNG27,USP47,Upregulated,11,11p15.3,ubiquitin specific peptidase 47,protein-coding,0.564,1.04E-06,0.0022424,221518_s_at

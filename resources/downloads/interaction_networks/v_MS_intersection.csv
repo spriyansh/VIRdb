@@ -1,0 +1,220 @@
+Gene 1,Gene 2,Weight,Network group,Network
+MKLN1,RAB8B,0.015911713,Co-expression,Smirnov-Cheung-2009
+MKLN1,CEPT1,0.016395103,Co-expression,Smirnov-Cheung-2009
+MKLN1,EIF4EBP2,0.023581963,Co-expression,Smirnov-Cheung-2009
+RBBP4,TMEM135,0.016395995,Co-expression,Smirnov-Cheung-2009
+TMED2,RBBP4,0.015198145,Co-expression,Smirnov-Cheung-2009
+IFNGR1,KLF3,0.006286022,Co-expression,Smirnov-Cheung-2009
+CEPT1,RAB8B,0.011954962,Co-expression,Wang-Cheung-2015
+DDX3X,UFM1,0.017841652,Co-expression,Wang-Cheung-2015
+KMT2A,CEPT1,0.012917085,Co-expression,Wang-Cheung-2015
+SNRNP40,CASP2,0.007833838,Co-expression,Wang-Cheung-2015
+SNRNP40,SRSF1,0.008489104,Co-expression,Wang-Cheung-2015
+SNRNP40,TMED2,0.007089629,Co-expression,Wang-Cheung-2015
+IFNGR1,ZNF652,0.007379637,Co-expression,Wang-Cheung-2015
+IFNGR1,SPTLC1,0.0095342165,Co-expression,Wang-Cheung-2015
+NFS1,USP25,0.009332343,Co-expression,Wang-Cheung-2015
+NFS1,IFNGR1,0.0051363627,Co-expression,Wang-Cheung-2015
+EIF4E,UFM1,0.013641999,Co-expression,Wang-Cheung-2015
+STAT1,EIF4EBP1,0.009106405,Co-expression,Wang-Cheung-2015
+MALT1,CD9,0.015890058,Co-expression,Wang-Cheung-2015
+SPTLC1,DNAJB6,0.010348653,Co-expression,Bild-Nevins-2006 B
+SPTLC1,SPEN,0.008904443,Co-expression,Bild-Nevins-2006 B
+MAP3K7,KMT2A,0.009453601,Co-expression,Bild-Nevins-2006 B
+CD9,SPTLC1,0.007555693,Co-expression,Bild-Nevins-2006 B
+TMED2,CD9,0.013889788,Co-expression,Bild-Nevins-2006 B
+SNRNP40,SPEN,0.017596342,Co-expression,Bild-Nevins-2006 B
+SRPK2,RBBP4,0.01728066,Co-expression,Bild-Nevins-2006 B
+KPNA1,NUP50,0.01745451,Co-expression,Bild-Nevins-2006 B
+SFPQ,RBBP4,0.025489524,Co-expression,Bild-Nevins-2006 B
+SFPQ,SRSF1,0.015820634,Co-expression,Bild-Nevins-2006 B
+MALT1,IFNGR1,0.01441178,Co-expression,Bild-Nevins-2006 B
+RBBP4,CASP2,0.014972186,Co-expression,Dobbin-Giordano-2005
+SRSF1,RBBP4,0.01787114,Co-expression,Dobbin-Giordano-2005
+TMED2,APH1A,0.014989632,Co-expression,Dobbin-Giordano-2005
+SNRNP40,RBBP4,0.010021071,Co-expression,Dobbin-Giordano-2005
+SNRNP40,SRSF1,0.012434509,Co-expression,Dobbin-Giordano-2005
+APH1B,IFNGR1,0.01637729,Co-expression,Dobbin-Giordano-2005
+SPTLC2,CD9,0.020781688,Co-expression,Dobbin-Giordano-2005
+NFS1,KLF3,0.017926442,Co-expression,Dobbin-Giordano-2005
+APH1A,ARPC4,0.011735293,Co-expression,Chen-Brown-2002
+CSNK1A1,DNAJB6,0.010548985,Co-expression,Chen-Brown-2002
+MAP3K7,CSNK1A1,0.005749037,Co-expression,Chen-Brown-2002
+RBBP4,ZNF644,0.017959686,Co-expression,Chen-Brown-2002
+IFNGR1,UFM1,0.007921683,Co-expression,Chen-Brown-2002
+CRLS1,CHPT1,0.010593868,Co-expression,Chen-Brown-2002
+NFS1,CHPT1,0.008689334,Co-expression,Chen-Brown-2002
+NFS1,CRLS1,0.013968993,Co-expression,Chen-Brown-2002
+STAT1,IFNGR1,0.009766007,Co-expression,Chen-Brown-2002
+SFPQ,ZNF644,0.01971253,Co-expression,Chen-Brown-2002
+SFPQ,RBBP4,0.022489846,Co-expression,Chen-Brown-2002
+SFPQ,SRSF1,0.023193045,Co-expression,Chen-Brown-2002
+SRSF1,DDX3X,0.009763125,Co-expression,Wang-Maris-2006
+TMED2,EIF4EBP2,0.01913207,Co-expression,Wang-Maris-2006
+SNRNP40,RBBP4,0.02019472,Co-expression,Wang-Maris-2006
+SFPQ,SPEN,0.015711913,Co-expression,Wang-Maris-2006
+PTPN11,DDX3X,0.02665003,Co-expression,Burington-Shaughnessy-2008
+MAP3K7,NUP50,0.013047759,Co-expression,Burington-Shaughnessy-2008
+SRSF1,NUP50,0.013297108,Co-expression,Burington-Shaughnessy-2008
+CDIPT,EIF4EBP1,0.009768606,Co-expression,Burington-Shaughnessy-2008
+SFPQ,MAP3K7,0.012302034,Co-expression,Burington-Shaughnessy-2008
+NUP50,RASSF5,0.0076472214,Co-expression,Alizadeh-Staudt-2000
+CSNK1A1,NUP50,0.0064873025,Co-expression,Alizadeh-Staudt-2000
+KMT2A,NUP50,0.009741519,Co-expression,Alizadeh-Staudt-2000
+PTPN11,NUP50,0.008227743,Co-expression,Alizadeh-Staudt-2000
+TMED2,CSNK1A1,0.02102073,Co-expression,Ramaswamy-Golub-2001
+SRPK2,RBBP4,0.009533512,Co-expression,Ramaswamy-Golub-2001
+CDIPT,EIF4EBP2,0.021606533,Co-expression,Ramaswamy-Golub-2001
+CDIPT,SPTLC1,0.016849097,Co-expression,Ramaswamy-Golub-2001
+CDIPT,EPT1,0.010384658,Co-expression,Ramaswamy-Golub-2001
+SFPQ,DNAJB6,0.016412623,Co-expression,Ramaswamy-Golub-2001
+CSNK1A1,NUP50,0.015869394,Co-expression,Rosenwald-Staudt-2001
+PTPN11,NUP50,0.008089448,Co-expression,Rosenwald-Staudt-2001
+SPTLC2,MAP3K7,0.018081987,Co-expression,Rosenwald-Staudt-2001
+MALT1,RAB8B,0.015203427,Co-expression,Rosenwald-Staudt-2001
+DDX3X,DNAJB6,0.027902246,Co-expression,Noble-Diehl-2008
+TMED2,CEPT1,0.0066765067,Co-expression,Noble-Diehl-2008
+CHPT1,TMEM135,0.009573854,Co-expression,Noble-Diehl-2008
+CHPT1,MKLN1,0.008798212,Co-expression,Noble-Diehl-2008
+CHPT1,EPT1,0.0077175675,Co-expression,Noble-Diehl-2008
+CRLS1,EPT1,0.013420296,Co-expression,Noble-Diehl-2008
+CRLS1,CHPT1,0.0045656534,Co-expression,Noble-Diehl-2008
+NFS1,CHPT1,0.0055951523,Co-expression,Noble-Diehl-2008
+SFPQ,PSPC1,0.011988909,Co-expression,Noble-Diehl-2008
+CEPT1,USP25,0.011392764,Co-expression,Innocenti-Brown-2011
+MAP3K7,PSPC1,0.008225979,Co-expression,Innocenti-Brown-2011
+CD44,RAB8B,0.015356782,Co-expression,Innocenti-Brown-2011
+APH1B,CD44,0.010242909,Co-expression,Innocenti-Brown-2011
+CHPT1,TMEM135,0.0073947,Co-expression,Innocenti-Brown-2011
+CHPT1,CEPT1,0.003730378,Co-expression,Innocenti-Brown-2011
+CHPT1,EIF4EBP2,0.0071853627,Co-expression,Innocenti-Brown-2011
+KPNA1,PTPN11,0.0069217477,Co-expression,Innocenti-Brown-2011
+KPNA1,RBBP4,0.0064661964,Co-expression,Innocenti-Brown-2011
+KPNA1,TMED2,0.0054498506,Co-expression,Innocenti-Brown-2011
+TIMM22,CDIPT,0.0066394475,Co-expression,Innocenti-Brown-2011
+SFPQ,PSPC1,0.017959304,Co-expression,Innocenti-Brown-2011
+PXMP4,NFS1,0.009533888,Co-expression,Innocenti-Brown-2011
+DNAJB6,USP25,0.007958682,Co-expression,Roth-Zlotnik-2006
+MAP3K7,ZNF644,0.02183172,Co-expression,Roth-Zlotnik-2006
+TIMM23B,DNAJB6,0.0049973773,Co-expression,Roth-Zlotnik-2006
+TIMM23B,SNRNP40,0.012296736,Co-expression,Roth-Zlotnik-2006
+TIMM23B,KPNA1,0.016572937,Co-expression,Roth-Zlotnik-2006
+TIMMDC1,DNAJB6,0.0039470573,Co-expression,Roth-Zlotnik-2006
+TIMMDC1,TIMM23B,0.008799546,Co-expression,Roth-Zlotnik-2006
+TIMM22,CDIPT,0.02444042,Co-expression,Roth-Zlotnik-2006
+SPEN,MKLN1,0.0061424654,Co-expression,Rieger-Chu-2004
+RBBP4,SPTLC1,0.019992802,Co-expression,Rieger-Chu-2004
+STAT1,DNAJB6,0.013879035,Co-expression,Rieger-Chu-2004
+SFPQ,DDX3X,0.02285227,Co-expression,Rieger-Chu-2004
+SFPQ,SPEN,0.0063145785,Co-expression,Rieger-Chu-2004
+KMT2A,NUP50,0.0142579805,Co-expression,Boldrick-Relman-2002
+SPTLC2,MAP3K7,0.016869409,Co-expression,Boldrick-Relman-2002
+MAP3K7,KMT2A,0.017456146,Co-expression,Perou-Botstein-2000
+UFM1,ZNF644,0.022422586,Co-localization,Johnson-Shoemaker-2003
+NUP50,PSPC1,0.023441615,Co-localization,Johnson-Shoemaker-2003
+KMT2A,SPEN,0.03206519,Co-localization,Johnson-Shoemaker-2003
+RBBP4,NUP50,0.007411562,Co-localization,Johnson-Shoemaker-2003
+RBBP4,MAP3K7,0.005821608,Co-localization,Johnson-Shoemaker-2003
+SRSF1,MAP3K7,0.009263041,Co-localization,Johnson-Shoemaker-2003
+SRSF1,RBBP4,0.0030295295,Co-localization,Johnson-Shoemaker-2003
+CD9,SPTLC1,0.009000927,Co-localization,Johnson-Shoemaker-2003
+SNRNP40,MAP3K7,0.004777556,Co-localization,Johnson-Shoemaker-2003
+IFNGR1,UFM1,0.018757835,Co-localization,Johnson-Shoemaker-2003
+CHPT1,TMED2,0.012331806,Co-localization,Johnson-Shoemaker-2003
+STAT1,RAB8B,0.011052298,Co-localization,Johnson-Shoemaker-2003
+SFPQ,CASP2,0.008519207,Co-localization,Johnson-Shoemaker-2003
+SFPQ,RBBP4,0.0061963107,Co-localization,Johnson-Shoemaker-2003
+SFPQ,SRSF1,0.009446151,Co-localization,Johnson-Shoemaker-2003
+SFPQ,SNRNP40,0.004652322,Co-localization,Johnson-Shoemaker-2003
+CSNK1A1,DDX3X,0.015382653,Co-localization,Schadt-Shoemaker-2004
+CD44,DDX3X,0.0127241695,Co-localization,Schadt-Shoemaker-2004
+CD9,CD44,0.016869117,Co-localization,Schadt-Shoemaker-2004
+TMEM135,PSPC1,0.0012421522,Genetic Interactions,Lin-Smith-2010
+RAB8B,PSPC1,0.0028240508,Genetic Interactions,Lin-Smith-2010
+UFM1,RAB8B,0.0008411195,Genetic Interactions,Lin-Smith-2010
+USP25,PSPC1,0.0029005276,Genetic Interactions,Lin-Smith-2010
+CEPT1,TMEM135,0.0005343808,Genetic Interactions,Lin-Smith-2010
+EIF4EBP2,ZNF644,0.0007867054,Genetic Interactions,Lin-Smith-2010
+EIF4EBP2,USP25,0.0010251119,Genetic Interactions,Lin-Smith-2010
+NUP50,ZNF644,0.0012643095,Genetic Interactions,Lin-Smith-2010
+MKLN1,CEPT1,0.0008079212,Genetic Interactions,Lin-Smith-2010
+CSNK1A1,ZNF644,0.0009175448,Genetic Interactions,Lin-Smith-2010
+CSNK1A1,PSPC1,0.0023297784,Genetic Interactions,Lin-Smith-2010
+CSNK1A1,TMEM135,0.00051201676,Genetic Interactions,Lin-Smith-2010
+CSNK1A1,RAB8B,0.0011640775,Genetic Interactions,Lin-Smith-2010
+SPEN,MKLN1,0.00059234386,Genetic Interactions,Lin-Smith-2010
+ZNF652,MKLN1,0.0009819497,Genetic Interactions,Lin-Smith-2010
+ZNF652,CASP2,0.0030347714,Genetic Interactions,Lin-Smith-2010
+SPTLC1,TMEM135,0.00079625257,Genetic Interactions,Lin-Smith-2010
+SPTLC1,USP25,0.0018593153,Genetic Interactions,Lin-Smith-2010
+SPTLC1,SPEN,0.001142779,Genetic Interactions,Lin-Smith-2010
+KMT2A,UFM1,0.0005605609,Genetic Interactions,Lin-Smith-2010
+KMT2A,EIF4EBP2,0.0006651688,Genetic Interactions,Lin-Smith-2010
+KMT2A,NUP50,0.0010689888,Genetic Interactions,Lin-Smith-2010
+MAP3K7,ZNF644,0.0004888905,Genetic Interactions,Lin-Smith-2010
+MAP3K7,TMEM135,0.00027281514,Genetic Interactions,Lin-Smith-2010
+MAP3K7,EIF4EBP2,0.00043872578,Genetic Interactions,Lin-Smith-2010
+CD44,CSNK1A1,0.0010089314,Genetic Interactions,Lin-Smith-2010
+CD44,MAP3K7,0.00053758343,Genetic Interactions,Lin-Smith-2010
+SRSF1,CEPT1,0.0013230131,Genetic Interactions,Lin-Smith-2010
+CD9,MKLN1,0.00068815483,Genetic Interactions,Lin-Smith-2010
+CD9,CSNK1A1,0.00085370505,Genetic Interactions,Lin-Smith-2010
+IFNGR1,UFM1,0.0009591145,Genetic Interactions,Lin-Smith-2010
+IFNGR1,CEPT1,0.001385356,Genetic Interactions,Lin-Smith-2010
+SRPK2,UFM1,0.00075351784,Genetic Interactions,Lin-Smith-2010
+SRPK2,TMED2,0.0036812415,Genetic Interactions,Lin-Smith-2010
+APH1B,TMEM135,0.00048625882,Genetic Interactions,Lin-Smith-2010
+APH1B,SPTLC1,0.0014183192,Genetic Interactions,Lin-Smith-2010
+APH1B,MAP3K7,0.00048595003,Genetic Interactions,Lin-Smith-2010
+APH1B,SRPK2,0.0009903782,Genetic Interactions,Lin-Smith-2010
+CHPT1,UFM1,0.0007799055,Genetic Interactions,Lin-Smith-2010
+CHPT1,SRPK2,0.0011720873,Genetic Interactions,Lin-Smith-2010
+CRLS1,TES,0.003943296,Genetic Interactions,Lin-Smith-2010
+KPNA1,CSNK1A1,0.0009385391,Genetic Interactions,Lin-Smith-2010
+KPNA1,MAP3K7,0.00050007674,Genetic Interactions,Lin-Smith-2010
+KPNA1,RBBP4,0.0007527063,Genetic Interactions,Lin-Smith-2010
+KPNA1,CD44,0.0009860295,Genetic Interactions,Lin-Smith-2010
+CDIPT,TMEM135,0.0012198591,Genetic Interactions,Lin-Smith-2010
+CDIPT,EIF4EBP2,0.0019617078,Genetic Interactions,Lin-Smith-2010
+CDIPT,SRSF1,0.0030201115,Genetic Interactions,Lin-Smith-2010
+NFS1,MAP3K7,0.0029675623,Genetic Interactions,Lin-Smith-2010
+NFS1,CD44,0.0058513107,Genetic Interactions,Lin-Smith-2010
+EIF4E,RASSF5,0.00088609185,Genetic Interactions,Lin-Smith-2010
+EIF4E,RBBP4,0.00054214586,Genetic Interactions,Lin-Smith-2010
+EIF4E,SNRNP40,0.002656322,Genetic Interactions,Lin-Smith-2010
+EIF4E,NFS1,0.003920437,Genetic Interactions,Lin-Smith-2010
+TIMM23,RAB8B,0.0014903888,Genetic Interactions,Lin-Smith-2010
+TIMM23,SPEN,0.0009408345,Genetic Interactions,Lin-Smith-2010
+TIMM23,MAP3K7,0.0006551277,Genetic Interactions,Lin-Smith-2010
+TIMM23,CD44,0.0012917524,Genetic Interactions,Lin-Smith-2010
+TIMMDC1,RBBP4,0.0019529245,Genetic Interactions,Lin-Smith-2010
+TIMM22,ARPC4,0.006818181,Genetic Interactions,Lin-Smith-2010
+STAT1,EIF4EBP1,0.009912871,Genetic Interactions,Lin-Smith-2010
+SFPQ,APH1B,0.0008780314,Genetic Interactions,Lin-Smith-2010
+SFPQ,KPNA1,0.00090355607,Genetic Interactions,Lin-Smith-2010
+PXMP4,CEPT1,0.001023764,Genetic Interactions,Lin-Smith-2010
+PXMP4,MAP3K7,0.0005226578,Genetic Interactions,Lin-Smith-2010
+PXMP4,CD44,0.0010305541,Genetic Interactions,Lin-Smith-2010
+MALT1,RASSF5,0.0037320878,Genetic Interactions,Lin-Smith-2010
+CD44,APH1A,0.029445384,Pathway,Wu-Stein-2010
+SRSF1,NUP50,0.009841988,Pathway,Wu-Stein-2010
+SNRNP40,SRSF1,0.008217652,Pathway,Wu-Stein-2010
+IFNGR1,PTPN11,0.009438839,Pathway,Wu-Stein-2010
+APH1B,APH1A,0.023950927,Pathway,Wu-Stein-2010
+APH1B,CD44,0.029445384,Pathway,Wu-Stein-2010
+KPNA1,NUP50,0.020593127,Pathway,Wu-Stein-2010
+EIF4E,NUP50,0.009193993,Pathway,Wu-Stein-2010
+EIF4E,CASP2,0.011299843,Pathway,Wu-Stein-2010
+EIF4E,EIF4EBP1,0.020493945,Pathway,Wu-Stein-2010
+STAT1,PTPN11,0.0038125245,Pathway,Wu-Stein-2010
+STAT1,IFNGR1,0.008470045,Pathway,Wu-Stein-2010
+MALT1,MAP3K7,0.03259379,Pathway,Wu-Stein-2010
+SRPK2,NUP50,0.07629278,Physical Interactions,Varjosalo-Gstaiger-2013
+SRPK2,SRSF1,0.029124089,Physical Interactions,Varjosalo-Gstaiger-2013
+SRPK2,DDX3X,0.06477486,Physical Interactions,Lipp-Guthrie-2015
+SRPK2,SPEN,0.035603207,Physical Interactions,Lipp-Guthrie-2015
+SRSF1,DDX3X,0.031975538,Physical Interactions,Hein-Mann-2015
+SRSF1,SPEN,0.07581259,Physical Interactions,Hein-Mann-2015
+TMED2,CD44,0.0126586305,Physical Interactions,Hein-Mann-2015
+SPTLC2,SPTLC1,0.09282561,Physical Interactions,Hein-Mann-2015
+KPNA1,NUP50,0.07023114,Physical Interactions,Hein-Mann-2015

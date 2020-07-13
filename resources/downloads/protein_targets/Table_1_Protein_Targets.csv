@@ -1,0 +1,51 @@
+VIRID,Protein Symbol,Description,SwissProt ID,String ID,Gene Name,KEGG ID,Method,Resolution,PDB ID,Active Site,Chain,Active Site Reference
+VIRP1,SUMO2,Small ubiquitin-related modifier 2,P61956,9606.ENSP00000405965,SUMO2,hsa:6613,X- Ray Diffraction,3.2 Å,2IO3,"Asp71, Asn68, Asp63, Arg61, Phe87, Arg59, Gln90, Asp85",B,10.1038/nsmb1168
+VIRP2,COPS5,COP9 signalosome complex subunit 5,Q92905,9606.ENSP00000350512,COPS5,hsa:10987,X- Ray Diffraction,2.46 Å,5JOG,"Asp151, Met78, His138, Glu76",A,10.1038/ncomms13166
+VIRP3,MYC,Myc proto-oncogene protein,P01106 ,9606.ENSP00000479618,MYC,hsa:4609,X- Ray Diffraction,2.701 Å,5I50,"His12, Glu16, Arg20",A/B,10.1038/onc.2016.354
+VIRP4,ELAVL1,ELAV-like protein 1,Q15717,9606.ENSP00000385269,ELAVL1,hsa:1994,X- Ray Diffraction,2.9 Å,4EGL,Ser158,A,10.1128/MCB.01530-07
+VIRP5,SMAD3,Mothers against decapentaplegic homolog 3,P84022,9606.ENSP00000332973,SMAD3,hsa:4088,X- Ray Diffraction,2.12 Å,5ODG,"His126, Cys64, Cys109",A/B,10.1038/s41467-017-02054-6
+VIRP6,YWHAQ,14-3-3 protein theta,P27348,9606.ENSP00000371267,YWHAQ,hsa:10971,X- Ray Diffraction,1.986 Å,6BCR,"Ser325, Thr340, Thr360, Ser366",A,10.1038/s41467-019-08317-8
+VIRP7,CUL1,Cullin-1,Q13616,9606.ENSP00000326804,CUL1,hsa:8454,X- Ray Diffraction,2 Å,3TDZ,"Ala106, Phe117, Ala98, Leu184",A,10.1126/science.1209307
+VIRP8,HSPA8,Heat shock cognate 71 kDa protein,P11142,9606.ENSP00000432083,HSPA8,hsa:3312,X- Ray Diffraction,2.2 Å,3FZF,"Thr14, Tyr15, Glu268, Lys271, Ser275",A,10.1021/jm801627a
+VIRP9,ESR2,Estrogen receptor beta,Q92731,9606.ENSP00000343925,ESR2,hsa:2100,X- Ray Diffraction,2.95 Å,1L2J,"Glu305, Leu339, Phe356, Gly472",A,10.1038/nsb787
+VIRP10,LRRK2,Leucine-rich repeat serine/threonine protein kinase 2,Q5S007,9606.ENSP00000298910,LRRK2,hsa:120892,X- Ray Diffraction,2.00 Å,2ZEJ,"Ala1490, Asp1455, Thr1349, Thr1348, Gly1344, Lys1347, Gly1346, His1453",A,10.1073/pnas.0709098105
+VIRP11,XRCC5,X-ray repair cross-complementing protein 5,P13010,9606.ENSP00000375978,XRCC5,hsa:7520,X- Ray Diffraction,2.50 Å,1JEY,Arg403,A/B,10.1038/35088000
+VIRP12,SMAD2,Mothers against decapentaplegic homolog 2,Q15796,9606.ENSP00000262160,SMAD2,hsa:4087,X- Ray Diffraction,2.20 Å,1DEV,"Thr372, Cys374, Lys375, Pro377, Ile376, Leu382,Tyr366",A/C,10.1126/science.287.5450.92
+VIRP13,XRCC6,X-ray repair cross-complementing protein 6,P12956,9606.ENSP00000352257,XRCC6,hsa:2547,X- Ray Diffraction,2.50 Å,1JEY,Arg400,A,10.1038/35088000
+VIRP14,BRCA1,Breast cancer type 1 susceptibility protein,P38398,9606.ENSP00000418960,BRCA1,hsa:672,X- Ray Diffraction,1.85 Å,1T15,Ser1655,A,10.1038/nsmb775
+VIRP15,RGS1,Regulator of G-protein signaling 1,Q08116 ,9606.ENSP00000356429,RGS1,hsa:5996,X- Ray Diffraction,2.55 A,2GTP,"Thr327, Lys270, Arg176, Thr48",A,10.1073/pnas.0801508105
+VIRP16,MTOR,Serine/threonine protein kinase,P42345,9606.ENSP00000354558,MTOR,hsa:2475,X- Ray Diffraction,2.7 Å,1FAP,"Glu54, Ile56, Tyr82, Gln53, Trp59, Asp37",A,10.1126/science.273.5272.239
+VIRP17,PRKDC,DNA-dependent protein kinase catalytic subunit,P78527,9606.ENSP00000313420,PRKDC,hsa:5591,X- Ray Diffraction,4.3 Å,5LUQ,"Thr3950, Thr946, Ser1003, Ser2029, Ser2023",A,10.1126/science.aak9654
+VIRP18,BAG3,BAG family molecular chaperone regulator 3,O95817,9606.ENSP00000358081,BAG3,hsa:9531,X-Ray Diffraction,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable
+VIRP19,IRF1,Interferon regulatory factor 1,P10914,9606.ENSP00000245414,IRF1,hsa:3659,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable
+VIRP20,CD69,Early activation antigen,Q07108,9606.ENSP00000228434,CD69,hsa:969,X- Ray Diffraction,1.371 Å,3HUP,"Ala136, Arg134, Tyr135, Arg134",A/B,10.1107/S1744309109043152
+VIRP21,GAPDH,Glyceraldehyde-3-phosphate dehydrogenase,P04406,9606.ENSP00000229239,GAPDH,hsa:2597,X-Ray Diffraction,1.75 Å,1U8F,"Arg80, Thr99, Pro36, Asp35, Arg13, Ile14",P,10.1107/S0907444905042289
+VIRP22,IFIT3,Interferon-induced protein with tetratricopeptide repeats 3,O14879,9606.ENSP00000360883,IFIT3,hsa:3437,X-Ray Diffraction,2.54 Å,6C6K,Lys155,"B,E",10.1016/j.immuni.2018.01.014
+VIRP23,CD68,Macrosialin,P34810,9606.ENSP00000250092,CD68,hsa:968,X-Ray Diffraction,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable
+VIRP24,PPARG,Peroxisome proliferator-activated receptor gamma,P37231,9606.ENSP00000287820,PPARG,hsa:5468,X- Ray Diffraction,2.1 Å,1FM6,"His449, Met364, Met348, Gly284, Met348, Leu330, Tyr473, His323, Ser289","D, X",10.1016/S1097-2765(00)80448-7
+VIRP25,TRAF1,TNF receptor-associated factor 1,Q13077,9606.ENSP00000362994,TRAF1,hsa:7185,X- Ray Diffraction,2.8 Å,3M0D,"Arg48, Met33, Leu30, Tyr31, Ser34, Phe39, Ser37",D,10.1016/j.molcel.2010.03.009
+VIRP26,GZMA,Granzyme A,P12544,9606.ENSP00000274306,GZMA,hsa:3001,X- Ray Diffraction,2.4 Å,1ORF,"Phe215, Gly216, Ser195, Gly193, Cys191, Asp189, Ser214",A,10.1038/nsb944
+VIRP27,EDN2,Endothelin-2,P20800,9606.ENSP00000361668,EDN2,hsa:1907,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable
+VIRP28,INS,Insulin,P01308,9606.ENSP00000380432,INS,hsa:3630,X- Ray Diffraction,2.4 Å,1JK8,"Cys79, Cys15",B,10.1038/88694
+VIRP29,CFTR,Cystic fibrosis transmembrane conductance regulator,P13569,9606.ENSP00000003084,CFTR,hsa:1080,X- Ray Diffraction,2.3 Å,1XMJ,"Ser466, Trp401, Thr460, Thr465, Lys464, Gly461",A,10.1074/jbc.M410968200
+VIRP30,HSPB1,Heat shock protein beta-1,P04792,9606.ENSP00000248553,HSPB1,hsa:3315,X- Ray Diffraction,2 Å,3Q9P,"Cys137, Asp115, Asp149",A,10.1016/j.jmb.2011.05.024
+VIRP31,GBP1,Guanylate-binding protein 1,P32455,9606.ENSP00000359504,GBP1,hsa:2633,X- Ray Diffraction,1.7 Å,1F5N,"Asp184, Arg183, Lys51, Leu247, Tyr53, Gly50, Ser52, Thr75, His74, Leu250, Thr49",A,10.1093/emboj/19.17.4555
+VIRP32,PCNA,Proliferating cell nuclear antigen,P12004,9606.ENSP00000368458,PCNA,hsa:5111,X- Ray Diffraction,1.88 Å,1U7B,Phe344,A,10.1016/j.str.2004.09.018
+VIRP33,NCF2,Neutrophil cytosol factor 2,P19878,9606.ENSP00000356505,NCF2,hsa:4688,X- Ray Diffraction,2.4 Å,1E 96,His69,B,10.1016/S1097-2765(05)00091-2
+VIRP34,PML,Promyelocytic leukemia protein,P29590,9606.ENSP00000268058,PML,hsa:5371,X- Ray Diffraction,1.5 Å,4WJN,"Ser50, Tyr51, Leu47",B,10.1016/j.str.2014.10.015
+VIRP35,SMAD4,Mothers against decapentaplegic homolog 4,Q13485,9606.ENSP00000341551,SMAD4,hsa:4089,X- Ray Diffraction,2.7 Å,1U7V,"Arg496, Arg497, Arg493",B,10.1016/j.molcel.2004.07.016
+VIRP36,LPAR1,Lysophosphatidic acid receptor 1,Q92633,9606.ENSP00000363553,LPAR1,hsa:1902,X- Ray Diffraction,2.9 Å,4Z36,"Gln125, Gly179, Ser183",A,10.1016/j.cell.2015.06.002
+VIRP37,HIST1H3A,Histone H3.1,P68431,9606.ENSP00000484841,"HIST1H3A,HIST1H3B,HIST1H3C,HIST1H3D,HIST1H3E,HIST1H3F,HIST1H3G,HIST1H3H,HIST1H3I,HIST1H3J","hsa:8350, hsa:8351, hsa:8352, hsa:8353, hsa:8354, hsa:8355, hsa:8356, hsa:8357, hsa:8358, hsa:8968",X- Ray Diffraction,1.75 Å,1O9S,"His297, Glu356, Trp352, Asn296, Glu228, Asn265, Ala226",A/B,10.1038/nature01378
+VIRP38,PPP1CA,Serine/threonine protein phosphatase,P62136,9606.ENSP00000326031,PPP1CA,hsa:5499,X- Ray Diffraction,1.63 Å,3E7A,"Val250, Arg221, Ser129",A,10.1016/j.jmb.2008.10.053
+VIRP39,ABL1,Tyrosine protein kinase,P00519,9606.ENSP00000361423,ABL1,hsa:25,X- Ray Diffraction,3.42 Å,1OPL,"Ala288, Leu389, Leu267, Gly340, Met337",A,10.1016/s0092-8674(03)00194-6
+VIRP40,IRF8,Interferon regulatory factor 8,Q02556,9606.ENSP00000268638,IRF8,hsa:3394,X-Ray Diffraction,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable
+VIRP41,H2AFX,Histone H2AX,P16104,9606.ENSP00000434024,H2AFX,hsa:3014,X- Ray Diffraction,1.5 Å,3U3Z,"Met655, Ser654, Thr653, Met652, Pro677, Asp678, Asn696",B,10.1073/pnas.1212366109
+VIRP42,CNR1,Cannabinoid receptor 1,P21554,9606.ENSP00000358513,CNR1,hsa:1268,X-Ray Diffraction,2.6 Å,5U09,"Val196, Phe170, Phe102",A,10.1038/nature20613
+VIRP43,SIN3A,Paired amphipathic helix protein,Q96ST3,9606.ENSP00000378402,SIN3A,hsa:25942,X-Ray Diffraction,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable
+VIRP44,HSPA9,Stress-70 protein,P38646,9606.ENSP00000297185,HSPA9,hsa:3313,X- Ray Diffraction,2 Å,6P2U,Cys317,A,10.1002/1873-3468.13475
+VIRP45,IQCB1,IQ calmodulin-binding motif-containing protein 1,Q15051,9606.ENSP00000311505,IQCB1,hsa:9657,X-Ray Diffraction,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable
+VIRP46,RPL13,60S ribosomal protein L13,P26373,9606.ENSP00000307889,RPL13,hsa:6137,X-Ray Diffraction,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable
+VIRP47,SLC25A5,ADP/ATP translocase 2,P05141,9606.ENSP00000360671,SLC25A5,hsa:292,X-Ray Diffraction,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable
+VIRP48,IRF9,Interferon regulatory factor 9,Q00978,9606.ENSP00000380073,IRF9,hsa:10379,X-Ray Diffraction,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable
+VIRP49,ISG15,Ubiquitin-like protein ISG15,P05161 ,9606.ENSP00000368699,ISG15,hsa:9636,X- Ray Diffraction,2.29 Å,3SDL,Ile36,C/D,10.1073/pnas.1107032108
+VIRP50,GZMK,Granzyme K,P49863,9606.ENSP00000231009,GZMK,hsa:3003,X- Ray Diffraction,2.23 Å,1MZA,"Ile16, Ile17, Asp189, Ser190",A,10.1074/jbc.M207962200
