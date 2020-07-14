@@ -16,4 +16,4 @@ Vitiligo Information resource (VIRdb) is a comprehensive database which systemat
 #### Currents Developments
 - Deciphering relations and cross-talks with other diseases (Psoriasis, Multiple Sclerosis and Rheumatoid Arthritis), through computational genomics.
 
-See [Deployment](https://vitiligoinfores.com/)
+##### See [Deployment](https://vitiligoinfores.com/)
